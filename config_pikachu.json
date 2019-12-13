@@ -1,0 +1,31 @@
+{
+    "sets": {
+        "default": [
+            {
+                "name": "Galaxy War",
+                "link_play": "545660589189320",
+                "link_icon": "https://i.ibb.co/PCsJPbg/galaxy-icon.png",
+                "rate_start": 70,
+                "rate_per_click": 30,
+                "rate_per_view": 10,
+                "link_fullscreen": "https://i.ibb.co/RBv7ZRw/galaxy-full.jpg",
+                "show_fullscreen": [4, 8, 12]
+            },
+            {
+                "name": "Egg Shoot",
+                "link_play": "2492644277420233",
+                "link_icon": "https://i.ibb.co/b58RMBM/eggshot-icon.png",
+                "rate_start": 30,
+                "rate_per_click": 15,
+                "rate_per_view": 10,
+                "link_fullscreen": "https://i.ibb.co/GcWjGd7/eggshot-full.jpg",
+                "show_fullscreen": [4, 8, 12]
+            }
+        ]
+    },
+    "rules": {
+        "country": [],
+        "playerid": []
+    },
+    "version": 1
+}
