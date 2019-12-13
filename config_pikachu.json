@@ -1,31 +1,48 @@
 {
+    "version": 1,
     "sets": {
         "default": [
             {
+                "id": "545660589189320",
                 "name": "Galaxy War",
-                "link_play": "545660589189320",
-                "link_icon": "https://i.ibb.co/PCsJPbg/galaxy-icon.png",
-                "rate_start": 70,
-                "rate_per_click": 30,
-                "rate_per_view": 10,
-                "link_fullscreen": "https://i.ibb.co/RBv7ZRw/galaxy-full.jpg",
-                "show_fullscreen": [4, 8, 12]
+                "icon": "https://i.ibb.co/PCsJPbg/galaxy-icon.png",
+                "screenshot": "https://i.ibb.co/RBv7ZRw/galaxy-full.jpg",
+                "rate": 70
             },
             {
+                "id": "2492644277420233",
                 "name": "Egg Shoot",
-                "link_play": "2492644277420233",
-                "link_icon": "https://i.ibb.co/b58RMBM/eggshot-icon.png",
-                "rate_start": 30,
-                "rate_per_click": 15,
-                "rate_per_view": 10,
-                "link_fullscreen": "https://i.ibb.co/GcWjGd7/eggshot-full.jpg",
-                "show_fullscreen": [4, 8, 12]
+                "icon": "https://i.ibb.co/b58RMBM/eggshot-icon.png",
+                "screenshot": "https://i.ibb.co/GcWjGd7/eggshot-full.jpg",
+                "rate": 30
+            }
+        ],
+        "vi": [
+            {
+                "id": "545660589189320",
+                "name": "Bắn ruồi",
+                "icon": "https://i.ibb.co/PCsJPbg/galaxy-icon.png",
+                "screenshot": "https://i.ibb.co/RBv7ZRw/galaxy-full.jpg",
+                "rate": 70
+            },
+            {
+                "id": "2492644277420233",
+                "name": "Bắn trứng",
+                "icon": "https://i.ibb.co/b58RMBM/eggshot-icon.png",
+                "screenshot": "https://i.ibb.co/GcWjGd7/eggshot-full.jpg",
+                "rate": 30
             }
         ]
     },
     "rules": {
-        "country": [],
-        "playerid": []
-    },
-    "version": 1
+        "distributions": {
+            "vi": {
+                "countries": ["vi"],
+                "players": ["123412341234", "234221212"]
+            }
+        },
+        "interstitial": [4, 8, 12],
+        "click-adjust": 0.5,
+        "view-adjust": 0.1
+    }
 }
