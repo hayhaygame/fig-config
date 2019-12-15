@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 1,
     "sets": {
         "default": [
             {
@@ -7,7 +7,7 @@
                 "name": "Galaxy War",
                 "icon": "https://i.ibb.co/PCsJPbg/galaxy-icon.png",
                 "screenshot": "https://i.ibb.co/RBv7ZRw/galaxy-full.jpg",
-                "button": "",
+                "button": {"image": "", "text": "Play Now", "x": 0, "y": -200},
                 "rate": 70
             },
             {
@@ -15,17 +15,17 @@
                 "name": "Egg Shoot",
                 "icon": "https://i.ibb.co/b58RMBM/eggshot-icon.png",
                 "screenshot": "https://i.ibb.co/GcWjGd7/eggshot-full.jpg",
-                "button": "",
+                "button": {"image": "", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 30
             }
         ],
-        "vi": [
+        "viset": [
             {
                 "id": "545660589189320",
                 "name": "Bắn ruồi",
                 "icon": "https://i.ibb.co/PCsJPbg/galaxy-icon.png",
                 "screenshot": "https://i.ibb.co/RBv7ZRw/galaxy-full.jpg",
-                "button": "",
+                "button": {"image": "", "text": "Chơi ngay", "x": 0, "y": -200},
                 "rate": 70
             },
             {
@@ -33,18 +33,24 @@
                 "name": "Bắn trứng",
                 "icon": "https://i.ibb.co/b58RMBM/eggshot-icon.png",
                 "screenshot": "https://i.ibb.co/GcWjGd7/eggshot-full.jpg",
-                "button": "",
+                "button": {"image": "", "text": "Chơi ngay", "x": 0, "y": 0},
                 "rate": 30
             }
-        ]
+        ],
+        "TEST":[]
     },
     "rules": {
-        "distributions": {
-            "vi": {
+        "distributions": [
+            {
+                "set": "TEST"
+                "players": [""]
+            },
+            {
+                "set": "viset",
+                "players": []
                 "countries": ["vi"],
-                "players": ["123412341234", "234221212"]
             }
-        },
+        ],
         "interstitial": [4, 8, 12],
         "click-adjust": 0.5,
         "view-adjust": 0.1
