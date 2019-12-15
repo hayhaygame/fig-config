@@ -6,16 +6,16 @@
                 "id": "545660589189320",
                 "name": "Galaxy War",
                 "icon": "https://i.ibb.co/PCsJPbg/galaxy-icon.png",
-                "screenshot": "https://i.ibb.co/RBv7ZRw/galaxy-full.jpg",
-                "button": {"image": "", "text": "Play Now", "x": 0, "y": -200},
+                "screenshot": "https://i.ibb.co/zxXB8mB/galaxy-fullscreen.jpg",
+                "button": {"image": "https://i.ibb.co/4M7c90R/galaxy-button.png", "text": "Play Now", "x": 0, "y": -200},
                 "rate": 70
             },
             {
                 "id": "2492644277420233",
                 "name": "Egg Shoot",
                 "icon": "https://i.ibb.co/b58RMBM/eggshot-icon.png",
-                "screenshot": "https://i.ibb.co/GcWjGd7/eggshot-full.jpg",
-                "button": {"image": "", "text": "Play Now", "x": 0, "y": 0},
+                "screenshot": "https://i.ibb.co/DCggN0X/eggshoot-fullscreen.jpg",
+                "button": {"image": "https://i.ibb.co/z5X160W/eggshoot-button.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 30
             }
         ],
@@ -24,16 +24,16 @@
                 "id": "545660589189320",
                 "name": "Bắn ruồi",
                 "icon": "https://i.ibb.co/PCsJPbg/galaxy-icon.png",
-                "screenshot": "https://i.ibb.co/RBv7ZRw/galaxy-full.jpg",
-                "button": {"image": "", "text": "Chơi ngay", "x": 0, "y": -200},
+                "screenshot": "https://i.ibb.co/zxXB8mB/galaxy-fullscreen.jpg",
+                "button": {"image": "https://i.ibb.co/4M7c90R/galaxy-button.png", "text": "Play Now", "x": 0, "y": -200},
                 "rate": 70
             },
             {
                 "id": "2492644277420233",
                 "name": "Bắn trứng",
                 "icon": "https://i.ibb.co/b58RMBM/eggshot-icon.png",
-                "screenshot": "https://i.ibb.co/GcWjGd7/eggshot-full.jpg",
-                "button": {"image": "", "text": "Chơi ngay", "x": 0, "y": 0},
+                "screenshot": "https://i.ibb.co/DCggN0X/eggshoot-fullscreen.jpg",
+                "button": {"image": "https://i.ibb.co/z5X160W/eggshoot-button.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 30
             }
         ],
