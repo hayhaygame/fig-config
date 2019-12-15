@@ -42,13 +42,13 @@
     "rules": {
         "distributions": [
             {
-                "set": "TEST"
-                "players": [""]
+                "set": "TEST",
+                "players": []
             },
             {
                 "set": "viset",
-                "players": []
-                "countries": ["vi"],
+                "players": [],
+                "countries": ["vi"]
             }
         ],
         "interstitial": [4, 8, 12],
