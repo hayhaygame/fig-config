@@ -4,7 +4,7 @@
         "default": [
             {
                 "id": "545660589189320",
-                "name": "Galaxy War",
+                "name": "Galaxy Attack",
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/lo66G9E.jpg",
                 "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
@@ -25,7 +25,7 @@
                 "name": "Bắn ruồi",
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/lo66G9E.jpg",
-                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
+                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Chơi ngay", "x": 0, "y": -200},
                 "rate": 70
             },
             {
@@ -33,17 +33,26 @@
                 "name": "Bắn trứng",
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
-                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 0, "y": 0},
+                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Chơi ngay", "x": 0, "y": 0},
                 "rate": 30
             }
         ],
-        "TEST":[]
+        "TEST":[
+            {
+                "id": "545660589189320",
+                "name": "Galaxy Attack 1",
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
+                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 70
+            }
+        ]
     },
     "rules": {
         "distributions": [
             {
                 "set": "TEST",
-                "players": []
+                "players": ["1710268682352581"]
             },
             {
                 "set": "viset",
