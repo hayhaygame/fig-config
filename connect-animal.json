@@ -5,17 +5,17 @@
             {
                 "id": "545660589189320",
                 "name": "Galaxy War",
-                "icon": "https://i.ibb.co/PCsJPbg/galaxy-icon.png",
-                "screenshot": "https://i.ibb.co/zxXB8mB/galaxy-fullscreen.jpg",
-                "button": {"image": "https://i.ibb.co/4M7c90R/galaxy-button.png", "text": "Play Now", "x": 0, "y": -200},
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
+                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
                 "rate": 70
             },
             {
                 "id": "2492644277420233",
                 "name": "Egg Shoot",
-                "icon": "https://i.ibb.co/b58RMBM/eggshot-icon.png",
-                "screenshot": "https://i.ibb.co/DCggN0X/eggshoot-fullscreen.jpg",
-                "button": {"image": "https://i.ibb.co/z5X160W/eggshoot-button.png", "text": "Play Now", "x": 0, "y": 0},
+                "icon": "https://i.imgur.com/IywfC4x.png",
+                "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
+                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 30
             }
         ],
@@ -23,17 +23,17 @@
             {
                 "id": "545660589189320",
                 "name": "Bắn ruồi",
-                "icon": "https://i.ibb.co/PCsJPbg/galaxy-icon.png",
-                "screenshot": "https://i.ibb.co/zxXB8mB/galaxy-fullscreen.jpg",
-                "button": {"image": "https://i.ibb.co/4M7c90R/galaxy-button.png", "text": "Play Now", "x": 0, "y": -200},
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
+                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
                 "rate": 70
             },
             {
                 "id": "2492644277420233",
                 "name": "Bắn trứng",
-                "icon": "https://i.ibb.co/b58RMBM/eggshot-icon.png",
-                "screenshot": "https://i.ibb.co/DCggN0X/eggshoot-fullscreen.jpg",
-                "button": {"image": "https://i.ibb.co/z5X160W/eggshoot-button.png", "text": "Play Now", "x": 0, "y": 0},
+                "icon": "https://i.imgur.com/IywfC4x.png",
+                "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
+                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 30
             }
         ],
