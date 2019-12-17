@@ -1,0 +1,57 @@
+{
+    "version": 1,
+    "sets": {
+        "default": [
+            {
+                "id": "545660589189320",
+                "name": "Galaxy Attack",
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/dSA00Y2.jpg",
+                "button": {"image": "https://i.imgur.com/pblY2HV.png", "text": "Play Now", "x": 0, "y": -500},
+                "rate": 60
+            },
+            {
+                "id": "2492644277420233",
+                "name": "Egg Shoot",
+                "icon": "https://i.imgur.com/YgYc6lu.png",
+                "screenshot": "https://i.imgur.com/oiPwLMH.jpg",
+                "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "Play Now", "x": 0, "y": -120},
+                "rate": 20
+            },
+            {
+                "id": "1043181865796678",
+                "name": "Connect Animals",
+                "icon": "https://i.imgur.com/eDa10hU.png",
+                "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
+                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": -500},
+                "rate": 20
+            }
+        ],
+        "TEST":[
+            {
+                "id": "545660589189320",
+                "name": "Galaxy Attack",
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/dSA00Y2.jpg",
+                "button": {"image": "https://i.imgur.com/pblY2HV.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 80
+            }
+        ]
+    },
+    "rules": {
+        "distributions": [
+            {
+                "set": "TEST",
+                "players": []
+            },
+            {
+                "set": "viset",
+                "players": [],
+                "countries": []
+            }
+        ],
+        "interstitial": [4, 8, 12],
+        "click-adjust": 0.5,
+        "view-adjust": 0.1
+    }
+}
