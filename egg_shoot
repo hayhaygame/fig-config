@@ -1,0 +1,57 @@
+{
+    "version": 1,
+    "sets": {
+        "default": [
+            {
+                "id": "545660589189320",
+                "name": "Galaxy Attack",
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
+                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 60
+            },
+            {
+                "id": "227788504726017",
+                "name": "Ocean Pop",
+                "icon": "https://i.imgur.com/YgYc6lu.png",
+                "screenshot": "https://i.imgur.com/1YUyTbP.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 30
+            },
+            {
+                "id": "1043181865796678",
+                "name": "Connect Animals",
+                "icon": "https://i.imgur.com/eDa10hU.png",
+                "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
+                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 10
+            }
+        ],
+        "TEST":[
+            {
+                "id": "545660589189320",
+                "name": "Galaxy Attack",
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
+                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 70
+            }
+        ]
+    },
+    "rules": {
+        "distributions": [
+            {
+                "set": "TEST",
+                "players": []
+            },
+            {
+                "set": "viset",
+                "players": [],
+                "countries": []
+            }
+        ],
+        "interstitial": [4, 8, 12],
+        "click-adjust": 0.5,
+        "view-adjust": 0.1
+    }
+}
