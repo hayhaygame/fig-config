@@ -6,8 +6,8 @@
                 "id": "545660589189320",
                 "name": "Galaxy Attack",
                 "icon": "https://i.imgur.com/DXnuZpg.png",
-                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
-                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
+                "screenshot": "https://i.imgur.com/dSA00Y2.jpg",
+                "button": {"image": "https://i.imgur.com/pblY2HV.png", "text": "Play Now", "x": 0, "y": -200},
                 "rate": 60
             },
             {
@@ -32,9 +32,9 @@
                 "id": "545660589189320",
                 "name": "Galaxy Attack",
                 "icon": "https://i.imgur.com/DXnuZpg.png",
-                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
-                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
-                "rate": 70
+                "screenshot": "https://i.imgur.com/dSA00Y2.jpg",
+                "button": {"image": "https://i.imgur.com/pblY2HV.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 60
             }
         ]
     },
