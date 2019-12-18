@@ -48,10 +48,10 @@
             },
             {
                 "id": "227788504726017",
-                "name": "Ocean Pop: fire marble",
+                "name": "Ocean Pop",
                 "icon": "https://i.imgur.com/YgYc6lu.png",
                 "screenshot": "https://i.imgur.com/quHP4VO.jpg",
-                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": 0},
+                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -200 },
                 "rate": 70
             }
         ],
@@ -71,7 +71,7 @@
             {
                 "set": "en_set",
                 "players": ["1710268682352581","2560208193991190"],
-				"countries": []
+				"countries": ["en"]
             },
             {
                 "set": "viset",
