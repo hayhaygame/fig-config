@@ -37,6 +37,24 @@
                 "rate": 30
             }
         ],
+		 "en_set": [
+            {
+                "id": "545660589189320",
+                "name": "Galaxy Attack",
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
+                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 30
+            },
+            {
+                "id": "227788504726017",
+                "name": "Ocean Pop: fire marble",
+                "icon": "https://i.imgur.com/YgYc6lu.png",
+                "screenshot": "https://i.imgur.com/quHP4VO.jpg",
+                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 70
+            }
+        ],
         "TEST":[
             {
                 "id": "545660589189320",
@@ -51,8 +69,9 @@
     "rules": {
         "distributions": [
             {
-                "set": "TEST",
-                "players": ["1710268682352581"]
+                "set": "en_set",
+                "players": ["1710268682352581","2560208193991190"],
+				"countries": []
             },
             {
                 "set": "viset",
