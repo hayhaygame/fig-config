@@ -3,20 +3,12 @@
     "sets": {
         "default": [
             {
-                "id": "545660589189320",
-                "name": "Galaxy Attack",
-                "icon": "https://i.imgur.com/DXnuZpg.png",
-                "screenshot": "https://i.imgur.com/dSA00Y2.jpg",
-                "button": {"image": "https://i.imgur.com/pblY2HV.png", "text": "Play Now", "x": 0, "y": -200},
-                "rate": 60
-            },
-            {
                 "id": "227788504726017",
                 "name": "Ocean Pop",
                 "icon": "https://i.imgur.com/YgYc6lu.png",
                 "screenshot": "https://i.imgur.com/1YUyTbP.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 30
+                "rate": 60
             },
             {
                 "id": "1043181865796678",
@@ -24,7 +16,7 @@
                 "icon": "https://i.imgur.com/eDa10hU.png",
                 "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 10
+                "rate": 40
             }
         ],
         "TEST":[
@@ -42,7 +34,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": []
+                "players": ["1323232323232"]
             },
             {
                 "set": "viset",
