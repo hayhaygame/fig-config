@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "sets": {
         "default": [
             {
@@ -8,7 +8,7 @@
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/dSA00Y2.jpg",
                 "button": {"image": "https://i.imgur.com/pblY2HV.png", "text": "Play Now", "x": 0, "y": -500},
-                "rate": 60
+                "rate": 0
             },
             {
                 "id": "2492644277420233",
