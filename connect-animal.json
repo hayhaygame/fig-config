@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "sets": {
         "default": [
             {
@@ -8,7 +8,7 @@
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/lo66G9E.jpg",
                 "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
-                "rate": 70
+                "rate": 0
             },
             {
                 "id": "2492644277420233",
@@ -16,7 +16,7 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
                 "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 30
+                "rate": 100
             }
         ],
         "viset": [
@@ -26,7 +26,7 @@
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/lo66G9E.jpg",
                 "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Chơi ngay", "x": 0, "y": -200},
-                "rate": 70
+                "rate": 0
             },
             {
                 "id": "2492644277420233",
@@ -34,7 +34,7 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
                 "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Chơi ngay", "x": 0, "y": 0},
-                "rate": 30
+                "rate": 100
             }
         ],
 		 "en_set": [
@@ -44,7 +44,7 @@
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/lo66G9E.jpg",
                 "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
-                "rate": 30
+                "rate": 0
             },
             {
                 "id": "227788504726017",
@@ -52,7 +52,7 @@
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/quHP4VO.jpg",
                 "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -200 },
-                "rate": 70
+                "rate": 100
             }
         ],
         "TEST":[
