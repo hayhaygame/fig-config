@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "sets": {
         "default": [
             {
@@ -8,7 +8,7 @@
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/lo66G9E.jpg",
                 "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
-                "rate": 30
+                "rate": 0
             },
             {
                 "id": "2492644277420233",
@@ -16,8 +16,25 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
                 "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 70
+                "rate": 20
+            }, 
+			{
+                "id": "3280083422063465",
+                "name": "Candy Kingdom",
+                "icon": "https://i.imgur.com/wMvNQ08.png",
+                "screenshot": "https://i.imgur.com/KqCcoW3.jpg",
+                "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
+                "rate": 40
+            },
+			{
+                "id": "227788504726017",
+                "name": "Shoot Bubbles",
+                "icon": "https://i.imgur.com/cmA3MUO.png",
+                "screenshot": "https://i.imgur.com/iMUmfOx.jpg",
+                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -200 },
+                "rate": 40
             }
+              
         ],
         "viset": [
             {
@@ -26,7 +43,15 @@
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/lo66G9E.jpg",
                 "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Chơi ngay", "x": 0, "y": -200},
-                "rate": 30
+                "rate": 0
+            },
+            {
+                "id": "227788504726017",
+                "name": "Bắn bóng",
+                "icon": "https://i.imgur.com/cmA3MUO.png",
+                "screenshot": "https://i.imgur.com/iMUmfOx.jpg",
+                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Chơi ngay", "x": 0, "y": -200 },
+                "rate": 20
             },
             {
                 "id": "2492644277420233",
@@ -34,7 +59,41 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
                 "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Chơi ngay", "x": 0, "y": 0},
-                "rate": 70
+                "rate": 40
+            },
+	        {
+                "id": "3280083422063465",
+                "name": "Vương quốc Kẹo",
+                "icon": "https://i.imgur.com/wMvNQ08.png",
+                "screenshot": "https://i.imgur.com/KqCcoW3.jpg",
+                "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Chơi ngay", "x": 0, "y": -240},
+                "rate": 40
+            }],
+		"th_set": [
+            
+            {
+                "id": "227788504726017",
+                "name": "Shoot Bubbles",
+                "icon": "https://i.imgur.com/cmA3MUO.png",
+                "screenshot": "https://i.imgur.com/iMUmfOx.jpg",
+                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play now", "x": 0, "y": -200 },
+                "rate": 20
+            },
+            {
+                "id": "2492644277420233",
+                "name": "Egg Shoot",
+                "icon": "https://i.imgur.com/IywfC4x.png",
+                "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
+                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play now", "x": 0, "y": 0},
+                "rate": 40
+            },
+	        {
+                "id": "3280083422063465",
+                "name": "Candy Kingdom",
+                "icon": "https://i.imgur.com/wMvNQ08.png",
+                "screenshot": "https://i.imgur.com/KqCcoW3.jpg",
+                "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
+                "rate": 40
             }
         ],
 		 "en_set": [
@@ -46,14 +105,31 @@
                 "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
                 "rate": 0
             },
-            {
+             {
+                "id": "2492644277420233",
+                "name": "Egg Shoot",
+                "icon": "https://i.imgur.com/IywfC4x.png",
+                "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
+                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 20
+            }, 
+			{
+                "id": "3280083422063465",
+                "name": "Candy Kingdom",
+                "icon": "https://i.imgur.com/wMvNQ08.png",
+                "screenshot": "https://i.imgur.com/KqCcoW3.jpg",
+                "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
+                "rate": 40
+            },
+			{
                 "id": "227788504726017",
                 "name": "Shoot Bubbles",
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/iMUmfOx.jpg",
                 "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -200 },
-                "rate": 100
+                "rate": 40
             }
+			
         ],
         "TEST":[
             {
@@ -85,6 +161,10 @@
                 "set": "viset",
                 "players": [],
                 "countries": ["vi"]
+            },{
+                "set": "th_set",
+                "players": [],
+                "countries": ["th"]
             }
         ],
         "interstitial": [4, 8, 12],
