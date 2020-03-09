@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "sets": {
         "default": [
             {
@@ -16,7 +16,7 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/oiPwLMH.jpg",
                 "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "Play Now", "x": 0, "y": -120},
-                "rate": 20
+                "rate": 30
             },
             {
                 "id": "1043181865796678",
@@ -24,8 +24,16 @@
                 "icon": "https://i.imgur.com/eDa10hU.png",
                 "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": -500},
-                "rate": 20
-            }
+                "rate": 30
+            } ,
+            {
+                "id": "3280083422063465",
+                "name": "Candy Kingdom",
+                "icon": "https://i.imgur.com/wMvNQ08.png",
+                "screenshot": "https://i.imgur.com/nFZavdo.jpg",
+                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 40
+            } 
         ],
         "TEST":[
             {
