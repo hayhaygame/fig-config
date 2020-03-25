@@ -1,5 +1,5 @@
 {
-    "version": 6,
+    "version": 7,
     "sets": {
         "default": [
             {
@@ -16,7 +16,7 @@
                 "icon": "https://i.imgur.com/wMvNQ08.png",
                 "screenshot": "https://i.imgur.com/KqCcoW3.jpg",
                 "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
-                "rate": 40
+                "rate": 50
             },
 			{
                 "id": "227788504726017",
@@ -24,7 +24,7 @@
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/iMUmfOx.jpg",
                 "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -200 },
-                "rate": 40
+                "rate": 30
             }
               
         ],
@@ -44,7 +44,7 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
                 "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play now", "x": 0, "y": 0},
-                "rate": 40
+                "rate": 30
             },
 	        {
                 "id": "3280083422063465",
@@ -52,7 +52,7 @@
                 "icon": "https://i.imgur.com/wMvNQ08.png",
                 "screenshot": "https://i.imgur.com/KqCcoW3.jpg",
                 "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
-                "rate": 40
+                "rate": 50
             }
         ],
         "TEST":[
@@ -82,7 +82,7 @@
                 "countries": ["vi","th"]
             }
         ],
-        "interstitial": [4, 8, 12],
+        "interstitial": [2, 7, 12],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
