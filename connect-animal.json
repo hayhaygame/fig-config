@@ -54,24 +54,6 @@
                 "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
                 "rate": 50
             }
-        ],
-        "TEST":[
-            {
-                "id": "545660589189320",
-                "name": "Galaxy Attack 1",
-                "icon": "https://i.imgur.com/DXnuZpg.png",
-                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
-                "button": {"image": "https://i.imgur.com/c9pPyDN.png", "text": "Play Now", "x": 0, "y": -200},
-                "rate": 70
-            },
-	    {
-                "id": "3280083422063465",
-                "name": "Candy Kingdom",
-                "icon": "https://i.imgur.com/wMvNQ08.png",
-                "screenshot": "https://i.imgur.com/KqCcoW3.jpg",
-                "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
-                "rate": 50
-            }
         ]
     },
     "rules": {
