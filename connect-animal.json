@@ -1,5 +1,5 @@
 {
-    "version": 12,
+    "version": 13,
     "sets": {
         "default": [
             {
@@ -36,15 +36,15 @@
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/iMUmfOx.jpg",
                 "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play now", "x": 0, "y": -200 },
-                "rate": 20
+                "rate": 30
             },
-	    {
+			{
                 "id": "529117187574163",
                 "name": "Color Link",
                 "icon": "https://i.imgur.com/3vTZqkS.jpg",
                 "screenshot": "https://i.ibb.co/9rzmn0j/link.png",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play now", "x": 0, "y": -200 },
-                "rate": 30
+                "rate": 50
             },	
             {
                 "id": "2492644277420233",
@@ -52,15 +52,7 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
                 "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play now", "x": 0, "y": 0},
-                "rate": 40
-            },
-	        {
-                "id": "3280083422063465",
-                "name": "Candy Kingdom",
-                "icon": "https://i.imgur.com/wMvNQ08.png",
-                "screenshot": "https://i.imgur.com/KqCcoW3.jpg",
-                "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
-                "rate": 10
+                "rate": 20
             }
         ]
     },
