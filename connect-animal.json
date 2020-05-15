@@ -1,5 +1,5 @@
 {
-    "version": 13,
+    "version": 14,
     "sets": {
         "default": [
             {
@@ -10,13 +10,21 @@
                 "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 20
             }, 
+			 {
+                "id": "347909499499999",
+                "name": "Jumping Girl",
+                "icon": "https://i.imgur.com/dPfRbzi.png",
+                "screenshot": "https://i.imgur.com/RF6EJVm.jpg",
+                "button": {"image": "https://i.imgur.com/662Eaf9.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 40
+            }, 
 			{
                 "id": "3280083422063465",
                 "name": "Candy Kingdom",
                 "icon": "https://i.imgur.com/wMvNQ08.png",
                 "screenshot": "https://i.imgur.com/KqCcoW3.jpg",
                 "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
-                "rate": 50
+                "rate": 10
             },
 			{
                 "id": "227788504726017",
@@ -24,47 +32,15 @@
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/iMUmfOx.jpg",
                 "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -200 },
-                "rate": 30
-            }
-              
-        ],
-       
-		"vi_th": [  
-            {
-                "id": "227788504726017",
-                "name": "Shoot Bubbles",
-                "icon": "https://i.imgur.com/cmA3MUO.png",
-                "screenshot": "https://i.imgur.com/iMUmfOx.jpg",
-                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play now", "x": 0, "y": -200 },
-                "rate": 30
-            },
-			{
-                "id": "529117187574163",
-                "name": "Color Link",
-                "icon": "https://i.imgur.com/3vTZqkS.jpg",
-                "screenshot": "https://i.ibb.co/9rzmn0j/link.png",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play now", "x": 0, "y": -200 },
-                "rate": 50
-            },	
-            {
-                "id": "2492644277420233",
-                "name": "Egg Shoot",
-                "icon": "https://i.imgur.com/IywfC4x.png",
-                "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
-                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play now", "x": 0, "y": 0},
                 "rate": 20
             }
+              
         ]
     },
     "rules": {
         "distributions": [
-            {
-                "set": "vi_th",
-                "players": [],
-                "countries": ["vi","th"]
-            }
         ],
-        "interstitial": [2, 7, 12],
+        "interstitial": [2, 7, 12, 16, 20],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
