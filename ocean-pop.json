@@ -1,5 +1,5 @@
 {
-    "version": 6,
+    "version": 8,
     "sets": {
         "default": [            
             {
@@ -14,8 +14,8 @@
                 "id": "347909499499999",
                 "name": "Jumping Girl",
                 "icon": "https://i.imgur.com/dPfRbzi.png",
-                "screenshot": "https://i.imgur.com/RF6EJVm.jpg",
-                "button": {"image": "https://i.imgur.com/662Eaf9.png", "text": "Play Now", "x": 0, "y": -200},
+                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
+                "button": {"image": "https://i.imgur.com/EdxX6lD.png", "text": "Play Now", "x": 0, "y": -420},
                 "rate": 40
             },
             {
@@ -48,7 +48,7 @@
                 "countries": []
             }
         ],
-        "interstitial": [2, 7, 12],
+        "interstitial": [2, 7, 12, 16, 20],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
