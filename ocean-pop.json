@@ -1,5 +1,5 @@
 {
-    "version": 9,
+    "version": 10,
     "sets": {
         "default": [            
             {
@@ -34,13 +34,23 @@
                 "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 10
             } 
+        ],
+        "TEST": [            
+            {
+                "id": "3280083422063465",
+                "name": "Candy Kingdom",
+                "icon": "https://i.imgur.com/14HKjD1.png",
+                "screenshot": "https://i.imgur.com/MRopjrx.jpg",
+                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 10
+            } 
         ]
     },
     "rules": {
         "distributions": [
             {
                 "set": "TEST",
-                "players": []
+                "players": ["2168891876536785"]
             },
             {
                 "set": "viset",
