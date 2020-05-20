@@ -1,5 +1,5 @@
 {
-    "version": 8,
+    "version": 9,
     "sets": {
         "default": [            
             {
@@ -29,8 +29,8 @@
             {
                 "id": "3280083422063465",
                 "name": "Candy Kingdom",
-                "icon": "https://i.imgur.com/wMvNQ08.png",
-                "screenshot": "https://i.imgur.com/nFZavdo.jpg",
+                "icon": "https://i.imgur.com/14HKjD1.png",
+                "screenshot": "https://i.imgur.com/MRopjrx.jpg",
                 "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 10
             } 
