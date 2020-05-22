@@ -1,14 +1,62 @@
 {
-    "version": 20,
+    "version": 21,
     "sets": {
         "default": [
+			{
+                "id": "498866996936248",
+                "name": "Line 98",
+                "icon": "https://i.imgur.com/1Lcfr8O.png",
+                "screenshot": "https://i.imgur.com/XsHTJZE.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 5
+            }, 
+			{
+                "id": "263413200935442",
+                "name": "Onet Connect Fruit Classic",
+                "icon": "https://i.imgur.com/fbi5SAF.png",
+                "screenshot": "https://i.imgur.com/MwMJwGJ.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 5
+            },		
+			{
+                "id": "299186917512190",
+                "name": "Food Connect",
+                "icon": "https://i.imgur.com/KGvDR3d.png",
+                "screenshot": "https://i.imgur.com/svsgKcr.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 5
+            },
+			{
+                "id": "982308051971150",
+                "name": "Lucky Number",
+                "icon": "https://i.imgur.com/mx2tRV2.png",
+                "screenshot": "https://i.imgur.com/VIlIt4o.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 5
+            },			
+			{
+                "id": "545660589189320",
+                "name": "Galaxy Attack",
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 5
+            },
+			{
+                "id": "529117187574163",
+                "name": "Color Link",
+                "icon": "https://i.imgur.com/3vTZqkS.jpg",
+                "screenshot": "https://i.ibb.co/9rzmn0j/link.png",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "rate": 25
+            },
             {
                 "id": "2492644277420233",
                 "name": "Egg Shoot",
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
                 "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 20
+                "rate": 10
             }, 
 			 {
                 "id": "347909499499999",
@@ -16,7 +64,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                 "screenshot": "https://i.imgur.com/RF6EJVm.jpg",
                 "button": {"image": "https://i.imgur.com/662Eaf9.png", "text": "Play Now", "x": 0, "y": -200},
-                "rate": 40
+                "rate": 10
             }, 
 			{
                 "id": "3280083422063465",
@@ -24,7 +72,7 @@
                 "icon": "https://i.imgur.com/14HKjD1.png",
                 "screenshot": "https://i.imgur.com/u7v3EFv.jpg",
                 "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
-                "rate": 10
+                "rate": 15
             },
 			{
                 "id": "227788504726017",
@@ -32,7 +80,7 @@
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/iMUmfOx.jpg",
                 "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -200 },
-                "rate": 20
+                "rate": 15
             }
               
         ],
