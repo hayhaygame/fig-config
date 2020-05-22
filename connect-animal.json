@@ -1,5 +1,5 @@
 {
-    "version": 21,
+    "version": 22,
     "sets": {
         "default": [
 			{
@@ -7,15 +7,15 @@
                 "name": "Line 98",
                 "icon": "https://i.imgur.com/1Lcfr8O.png",
                 "screenshot": "https://i.imgur.com/XsHTJZE.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
                 "rate": 5
             }, 
 			{
                 "id": "263413200935442",
-                "name": "Onet Connect Fruit Classic",
+                "name": "Connect Fruit",
                 "icon": "https://i.imgur.com/fbi5SAF.png",
                 "screenshot": "https://i.imgur.com/MwMJwGJ.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
                 "rate": 5
             },		
 			{
@@ -23,7 +23,7 @@
                 "name": "Food Connect",
                 "icon": "https://i.imgur.com/KGvDR3d.png",
                 "screenshot": "https://i.imgur.com/svsgKcr.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
                 "rate": 5
             },
 			{
@@ -31,7 +31,7 @@
                 "name": "Lucky Number",
                 "icon": "https://i.imgur.com/mx2tRV2.png",
                 "screenshot": "https://i.imgur.com/VIlIt4o.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
                 "rate": 5
             },			
 			{
@@ -39,7 +39,7 @@
                 "name": "Galaxy Attack",
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/lo66G9E.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
                 "rate": 5
             },
 			{
@@ -47,7 +47,7 @@
                 "name": "Color Link",
                 "icon": "https://i.imgur.com/3vTZqkS.jpg",
                 "screenshot": "https://i.ibb.co/9rzmn0j/link.png",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -200},
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
                 "rate": 25
             },
             {
