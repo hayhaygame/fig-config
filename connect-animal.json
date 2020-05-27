@@ -1,5 +1,5 @@
 {
-    "version": 23,
+    "version": 25,
     "sets": {
         "default": [
 			{
@@ -46,8 +46,8 @@
                 "id": "529117187574163",
                 "name": "Color Link",
                 "icon": "https://i.imgur.com/3vTZqkS.jpg",
-                "screenshot": "https://i.ibb.co/9rzmn0j/link.png",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
+                "screenshot": "https://i.ibb.co/g9dm4qd/colorlink-hoz.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": 0},
                 "rate": 25
             },
             {
@@ -85,21 +85,46 @@
               
         ],
         "TEST": [
+		
 			{
                 "id": "3280083422063465",
                 "name": "Candy Kingdom",
                 "icon": "https://i.imgur.com/14HKjD1.png",
-                "screenshot": "https://i.imgur.com/u7v3EFv.jpg",
+                "screenshot": "https://i.ibb.co/VQLp6cS/candy-hoz.jpg",
                 "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
-                "rate": 1
-            }  ,
-	   {
+                "rate": 15
+            },
+			{
+                "id": "498866996936248",
+                "name": "Line 98",
+                "icon": "https://i.imgur.com/1Lcfr8O.png",
+                "screenshot": "https://i.ibb.co/MGG1kph/line98-hoz.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 300, "y": -100},
+                "rate": 15
+            }, 
+			{
+                "id": "227788504726017",
+                "name": "Shoot Bubbles",
+                "icon": "https://i.imgur.com/cmA3MUO.png",
+                "screenshot": "https://i.ibb.co/LdMj4xH/bubble-hoz.jpg",
+                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -300 },
+                "rate": 15
+            },
+			{
                 "id": "529117187574163",
                 "name": "Color Link",
                 "icon": "https://i.imgur.com/3vTZqkS.jpg",
                 "screenshot": "https://i.ibb.co/g9dm4qd/colorlink-hoz.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": 0},
-                "rate": 99
+                "rate": 0
+            },
+			{
+                "id": "2492644277420233",
+                "name": "Egg Shoot",
+                "icon": "https://i.imgur.com/IywfC4x.png",
+                "screenshot": "https://i.ibb.co/VLFF1mh/egg-hoz.png",
+                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 400, "y": -200},
+                "rate": 10
             }
         ]
     },
