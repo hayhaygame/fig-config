@@ -1,13 +1,13 @@
 {
-    "version": 26,
+    "version": 27,
     "sets": {
         "default": [
 			{
                 "id": "498866996936248",
                 "name": "Line 98",
                 "icon": "https://i.imgur.com/1Lcfr8O.png",
-                "screenshot": "https://i.imgur.com/XsHTJZE.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
+                "screenshot": "https://i.ibb.co/MGG1kph/line98-hoz.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
                 "rate": 5
             }, 
 			{
@@ -70,7 +70,7 @@
                 "id": "3280083422063465",
                 "name": "Candy Kingdom",
                 "icon": "https://i.imgur.com/14HKjD1.png",
-                "screenshot": "https://i.imgur.com/u7v3EFv.jpg",
+                "screenshot": "https://i.ibb.co/VQLp6cS/candy-hoz.jpg",
                 "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
                 "rate": 15
             },
@@ -78,8 +78,8 @@
                 "id": "227788504726017",
                 "name": "Shoot Bubbles",
                 "icon": "https://i.imgur.com/cmA3MUO.png",
-                "screenshot": "https://i.imgur.com/iMUmfOx.jpg",
-                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -200 },
+                "screenshot": "https://i.ibb.co/LdMj4xH/bubble-hoz.jpg",
+                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -240 },
                 "rate": 15
             }
               
@@ -123,7 +123,7 @@
                 "name": "Egg Shoot",
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.ibb.co/VLFF1mh/egg-hoz.png",
-                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 360, "y": -100},
+                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 360, "y": -110},
                 "rate": 50
             }
         ]
