@@ -38,8 +38,8 @@
                 "id": "529117187574163",
                 "name": "Color Link",
                 "icon": "https://i.imgur.com/3vTZqkS.jpg",
-                "screenshot": "https://i.ibb.co/9rzmn0j/link.png",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "", "x": 0, "y": -200 },
+                "screenshot": "https://i.ibb.co/cv1gjV0/colorlink-vec.png",
+                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "", "x": 0, "y": -360 },
                 "rate": 10
             }
         ],
