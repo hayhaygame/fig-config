@@ -1,5 +1,5 @@
 {
-    "version": 17,
+    "version": 18,
     "sets": {
         "default": [
             {
@@ -43,40 +43,6 @@
                 "rate": 10
             }
         ], 
-         "viset": [
-            {
-                "id": "227788504726017",
-                "name": "Shoot Bubbles",
-                "icon": "https://i.imgur.com/cmA3MUO.png",
-                "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 30
-            },
-            {
-                "id": "1043181865796678",
-                "name": "Connect Animals",
-                "icon": "https://i.imgur.com/eDa10hU.png",
-                "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 30
-            },
-            {
-                "id": "3280083422063465",
-                "name": "Candy Kingdom",
-                "icon": "https://i.imgur.com/14HKjD1.png",
-                "screenshot": "https://i.imgur.com/MRopjrx.jpg",
-                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 20
-            },
-			{
-                "id": "529117187574163",
-                "name": "Color Link",
-                "icon": "https://i.imgur.com/3vTZqkS.jpg",
-                "screenshot": "https://i.ibb.co/9rzmn0j/link.png",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play now", "x": 0, "y": -200 },
-                "rate": 20
-            }
-        ],
 		"thset": [
 			{
                 "id": "347909499499999",
