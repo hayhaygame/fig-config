@@ -1,5 +1,5 @@
 {
-    "version": 18,
+    "version": 19,
     "sets": {
         "default": [
             {
@@ -96,11 +96,6 @@
                 "players": ["2439569439417466","2293807484024628"]
             },
             {
-                "set": "viset",
-                "players": [],
-                "countries": ["vi"]
-            },
-			{
                 "set": "thset",
                 "players": [],
                 "countries": ["th"]
