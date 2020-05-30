@@ -1,5 +1,5 @@
 {
-    "version": 19,
+    "version": 20,
     "sets": {
         "default": [
             {
@@ -10,7 +10,7 @@
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 30
             }, 
-			 {
+	    {
                 "id": "347909499499999",
                 "name": "Jumping Girl",
                 "icon": "https://i.imgur.com/dPfRbzi.png",
@@ -43,7 +43,7 @@
                 "rate": 10
             }
         ], 
-		"thset": [
+	"thset": [
 			{
                 "id": "347909499499999",
                 "name": "Jumping Girl",
