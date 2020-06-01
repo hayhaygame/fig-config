@@ -1,5 +1,5 @@
 {
-    "version": 29,
+    "version": 30,
     "sets": {
         "default": [
 			{
@@ -69,7 +69,7 @@
 			{
                 "id": "3280083422063465",
                 "name": "Candy Kingdom",
-                "icon": "https://i.imgur.com/14HKjD1.png",
+                "icon": "https://i.ibb.co/wQK65Rg/candy-icon.png",
                 "screenshot": "https://i.ibb.co/VQLp6cS/candy-hoz.jpg",
                 "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
                 "rate": 15
