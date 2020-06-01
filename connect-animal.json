@@ -1,5 +1,5 @@
 {
-    "version": 27,
+    "version": 28,
     "sets": {
         "default": [
 			{
@@ -63,7 +63,7 @@
                 "name": "Jumping Girl",
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                 "screenshot": "https://i.imgur.com/RF6EJVm.jpg",
-                "button": {"image": "https://i.imgur.com/662Eaf9.png", "text": "Play Now", "x": 0, "y": -200},
+                "button": {"image": "https://i.ibb.co/jRHzNN3/play-Now-Red.png", "text": "Play Now", "x": 0, "y": -200},
                 "rate": 10
             }, 
 			{
