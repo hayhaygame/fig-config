@@ -1,5 +1,5 @@
 {
-    "version": 22,
+    "version": 23,
     "sets": {
         "default": [
             {
@@ -15,7 +15,7 @@
                 "name": "Jumping Girl",
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
-                "button": {"image": "https://i.imgur.com/EdxX6lD.png", "text": "Play Now", "x": 0, "y": -420},
+                "button": {"image": "https://i.ibb.co/jRHzNN3/play-Now-Red.png", "text": "Play Now", "x": 0, "y": -420},
                 "rate": 20
             },
             {
@@ -49,7 +49,7 @@
                 "name": "Jumping Girl",
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                  "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
-                "button": {"image": "https://i.imgur.com/EdxX6lD.png", "text": "Play Now", "x": 0, "y": -420},
+                "button": {"image": "https://i.ibb.co/jRHzNN3/play-Now-Red.png", "text": "Play Now", "x": 0, "y": -420},
                 "rate": 40
             },
             {
