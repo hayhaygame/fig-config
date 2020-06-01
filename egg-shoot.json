@@ -1,5 +1,5 @@
 {
-    "version": 20,
+    "version": 21,
     "sets": {
         "default": [
             {
@@ -98,7 +98,7 @@
             {
                 "set": "thset",
                 "players": [],
-                "countries": ["th"]
+                "countries": ["th","vi"]
             }
 			
         ],
