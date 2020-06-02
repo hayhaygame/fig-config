@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 4,
     "sets": {
         "default": [            
             {
@@ -23,7 +23,7 @@
             {
                 "id": "634974810429385",
                 "name": "Ninja Hit",
-                 "icon": "https://i.ibb.co/W66m6kq/icon-game.png",
+                 "icon": "https://i.ibb.co/MsMS2pf/icon-ninja.png",
                 "screenshot": "https://i.ibb.co/CtcRXfS/ninja-vec.jpg",
                 "button": {"image": "https://i.ibb.co/RjZR7WV/button-en.png", "text": "", "x": 0, "y": -350 },
                 "rate": 100
@@ -42,7 +42,7 @@
                 "countries": []
             }
         ],
-        "interstitial": [ 5, 7],
+        "interstitial": [ 2, 7],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
