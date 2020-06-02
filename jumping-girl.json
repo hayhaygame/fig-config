@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "sets": {
         "default": [            
             {
@@ -23,7 +23,7 @@
             {
                 "id": "634974810429385",
                 "name": "Ninja Hit",
-                 "icon": "https://i.ibb.co/MsMS2pf/icon-ninja.png",
+                 "icon": "https://i.imgur.com/PAr2hZ1.png",
                 "screenshot": "https://i.ibb.co/CtcRXfS/ninja-vec.jpg",
                 "button": {"image": "https://i.ibb.co/RjZR7WV/button-en.png", "text": "", "x": 0, "y": -350 },
                 "rate": 100
