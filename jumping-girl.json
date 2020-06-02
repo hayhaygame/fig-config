@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "sets": {
         "default": [            
             {
@@ -18,7 +18,15 @@
                 "icon": "https://i.imgur.com/14HKjD1.png",
                 "screenshot": "https://i.imgur.com/MRopjrx.jpg",
                 "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 10
+                "rate": 0
+            } ,
+            {
+                "id": "634974810429385",
+                "name": "Ninja Hit",
+                 "icon": "https://i.ibb.co/W66m6kq/icon-game.png",
+                "screenshot": "https://i.ibb.co/CtcRXfS/ninja-vec.jpg",
+                "button": {"image": "https://i.ibb.co/RjZR7WV/button-en.png", "text": "", "x": 0, "y": -350 },
+                "rate": 100
             } 
         ]
     },
@@ -26,7 +34,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2168891876536785"]
+                "players": ["2168891876536785", "3021912397892526"]
             },
             {
                 "set": "viset",
