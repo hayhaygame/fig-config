@@ -1,5 +1,5 @@
 {
-    "version": 25,
+    "version": 26,
     "sets": {
         "default": [
             {
@@ -16,7 +16,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.ibb.co/jRHzNN3/play-Now-Red.png", "text": "Play Now", "x": 0, "y": -420},
-                "rate": 50
+                "rate": 40
             },
             {
                 "id": "1043181865796678",
@@ -24,7 +24,7 @@
                 "icon": "https://i.imgur.com/eDa10hU.png",
                 "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 20
+                "rate": 10
             },
             {
                 "id": "3280083422063465",
@@ -41,7 +41,15 @@
                  "screenshot": "https://i.ibb.co/cv1gjV0/colorlink-vec.png",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": -360 },
                 "rate": 10
-            }
+            },
+            {
+                "id": "634974810429385",
+                "name": "Ninja Hit",
+                 "icon": "https://i.imgur.com/PAr2hZ1.png",
+                "screenshot": "https://i.ibb.co/CtcRXfS/ninja-vec.jpg",
+                "button": {"image": "https://i.ibb.co/RjZR7WV/button-en.png", "text": "", "x": 0, "y": -350 },
+                "rate": 20
+            } 
         ], 
 	"thset": [
 			{
@@ -50,7 +58,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                  "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.ibb.co/jRHzNN3/play-Now-Red.png", "text": "Play Now", "x": 0, "y": -420},
-                "rate": 50
+                "rate": 40
             },
             {
                 "id": "1043181865796678",
@@ -74,8 +82,16 @@
                 "icon": "https://i.imgur.com/3vTZqkS.jpg",
                 "screenshot": "https://i.ibb.co/9rzmn0j/link.png",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play now", "x": 0, "y": -200 },
+                "rate": 10
+            },
+	    {
+                "id": "634974810429385",
+                "name": "Ninja Hit",
+                 "icon": "https://i.imgur.com/PAr2hZ1.png",
+                "screenshot": "https://i.ibb.co/CtcRXfS/ninja-vec.jpg",
+                "button": {"image": "https://i.ibb.co/RjZR7WV/button-en.png", "text": "", "x": 0, "y": -350 },
                 "rate": 20
-            }
+            } 
         ],
 		
         "TEST": [
