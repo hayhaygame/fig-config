@@ -1,5 +1,5 @@
 {
-    "version": 31,
+    "version": 32,
     "sets": {
         "default": [
             {
@@ -21,7 +21,7 @@
             {
                 "id": "1043181865796678",
                 "name": "Connect Animals",
-                "icon": "https://i.imgur.com/eDa10hU.png",
+                "icon": "https://i.imgur.com/JClSMev.png",
                 "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 10
@@ -63,7 +63,7 @@
             {
                 "id": "1043181865796678",
                 "name": "Connect Animals",
-                "icon": "https://i.imgur.com/eDa10hU.png",
+                "icon": "https://i.imgur.com/JClSMev.png",
                 "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 20
