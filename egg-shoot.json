@@ -1,5 +1,5 @@
 {
-    "version": 27,
+    "version": 29,
     "sets": {
         "default": [
             {
@@ -45,7 +45,7 @@
             {
                 "id": "634974810429385",
                 "name": "Ninja Hit",
-                 "icon": "https://i.imgur.com/PAr2hZ1.png",
+                 "icon": "https://i.imgur.com/VCcxQuR.png",
                 "screenshot": "https://i.imgur.com/NbQOsAk.jpg",
                 "button": {"image": "https://i.imgur.com/ucMzGHx.png", "text": "", "x": 0, "y": -350 },
                 "rate": 20
@@ -87,7 +87,7 @@
 	    {
                 "id": "634974810429385",
                 "name": "Ninja Hit",
-                 "icon": "https://i.imgur.com/PAr2hZ1.png",
+                 "icon": "https://i.imgur.com/VCcxQuR.png",
                  "screenshot": "https://i.imgur.com/NbQOsAk.jpg",
                 "button": {"image": "https://i.imgur.com/ucMzGHx.png", "text": "", "x": 0, "y": -350 },
                 "rate": 20
