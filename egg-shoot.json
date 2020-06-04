@@ -1,5 +1,5 @@
 {
-    "version": 34,
+    "version": 35,
     "sets": {
         "default": [
             {
@@ -46,8 +46,8 @@
                 "id": "634974810429385",
                 "name": "Ninja Hit",
                  "icon": "https://i.imgur.com/VCcxQuR.png",
-                "screenshot": "https://i.imgur.com/NbQOsAk.jpg",
-                "button": {"image": "https://i.imgur.com/ucMzGHx.png", "text": "", "x": 0, "y": -350 },
+                "screenshot": "https://i.imgur.com/uLlC3rZ.png",
+                "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
                 "rate": 20
             } 
         ], 
@@ -88,8 +88,8 @@
                 "id": "634974810429385",
                 "name": "Ninja Hit",
                  "icon": "https://i.imgur.com/VCcxQuR.png",
-                 "screenshot": "https://i.imgur.com/NbQOsAk.jpg",
-                "button": {"image": "https://i.imgur.com/ucMzGHx.png", "text": "", "x": 0, "y": -350 },
+                 "screenshot": "https://i.imgur.com/uLlC3rZ.png",
+                "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
                 "rate": 20
             } 
         ],
