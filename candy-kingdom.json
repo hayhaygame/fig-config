@@ -1,15 +1,48 @@
 {
-    "version": 2,
+    "version": 3,
     "sets": {
         "default": [
-            {
-                "id": "2492644277420233",
-                "name": "Egg Shoot",
-                "icon": "https://i.imgur.com/IywfC4x.png",
-                "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
-                "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 100
+			{
+                "id": "498866996936248",
+                "name": "Line 98",
+                "icon": "https://i.imgur.com/1Lcfr8O.png",
+                "screenshot": "https://i.ibb.co/MGG1kph/line98-hoz.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
+                "rate": 20
+            }, 
+			{
+                "id": "263413200935442",
+                "name": "Connect Fruit",
+                "icon": "https://i.imgur.com/fbi5SAF.png",
+                "screenshot": "https://i.imgur.com/MwMJwGJ.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
+                "rate": 20
+            },		
+			{
+                "id": "299186917512190",
+                "name": "Food Connect",
+                "icon": "https://i.imgur.com/KGvDR3d.png",
+                "screenshot": "https://i.imgur.com/svsgKcr.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
+                "rate": 20
+            },
+			{
+                "id": "982308051971150",
+                "name": "Lucky Number",
+                "icon": "https://i.imgur.com/mx2tRV2.png",
+                "screenshot": "https://i.imgur.com/VIlIt4o.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
+                "rate": 20
+            },			
+			{
+                "id": "545660589189320",
+                "name": "Galaxy Attack",
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
+                "rate": 20
             }
+              
         ],
         "TEST": [
 			{
@@ -26,7 +59,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2413239652035747","2560208193991190"]
+                "players": ["2413239652035747"]
             },
             {
                 "set": "viset",
