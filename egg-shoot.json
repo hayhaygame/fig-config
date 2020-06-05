@@ -1,5 +1,5 @@
 {
-    "version": 35,
+    "version": 36,
     "sets": {
         "default": [
             {
@@ -8,7 +8,7 @@
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 10
+                "rate": 5
             }, 
 	    {
                 "id": "347909499499999",
@@ -16,7 +16,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 40
+                "rate": 60
             },
             {
                 "id": "1043181865796678",
@@ -24,7 +24,7 @@
                 "icon": "https://i.imgur.com/JClSMev.png",
                 "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 10
+                "rate": 5
             },
             {
                 "id": "3280083422063465",
@@ -32,7 +32,7 @@
                 "icon": "https://i.imgur.com/YbxKz77.png",
                 "screenshot": "https://i.imgur.com/MRopjrx.jpg",
                 "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 10
+                "rate": 5
             },
 			{
                 "id": "529117187574163",
@@ -40,7 +40,7 @@
                 "icon": "https://i.imgur.com/Wek57Ep.png",
                  "screenshot": "https://i.imgur.com/JdyLwSU.png",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": -360 },
-                "rate": 10
+                "rate": 5
             },
             {
                 "id": "634974810429385",
@@ -58,7 +58,49 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                  "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 40
+                "rate": 60
+            },
+            {
+                "id": "1043181865796678",
+                "name": "Connect Animals",
+                "icon": "https://i.imgur.com/JClSMev.png",
+                "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
+                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 10
+            },
+            {
+                "id": "3280083422063465",
+                "name": "Candy Kingdom",
+                "icon": "https://i.imgur.com/YbxKz77.png",
+                "screenshot": "https://i.imgur.com/MRopjrx.jpg",
+                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 5
+            },
+			{
+                "id": "529117187574163",
+                "name": "Color Link",
+                "icon": "https://i.imgur.com/Wek57Ep.png",
+                "screenshot": "https://i.imgur.com/JdyLwSU.png",
+                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play now", "x": 0, "y": -200 },
+                "rate": 5
+            },
+	    {
+                "id": "634974810429385",
+                "name": "Ninja Hit",
+                 "icon": "https://i.imgur.com/VCcxQuR.png",
+                 "screenshot": "https://i.imgur.com/uLlC3rZ.png",
+                "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
+                "rate": 20
+            } 
+        ],
+		"viset": [
+			{
+                "id": "347909499499999",
+                "name": "Jumping Girl",
+                "icon": "https://i.imgur.com/dPfRbzi.png",
+                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
+                "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
+                "rate": 60
             },
             {
                 "id": "1043181865796678",
@@ -83,17 +125,9 @@
                 "screenshot": "https://i.imgur.com/JdyLwSU.png",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play now", "x": 0, "y": -200 },
                 "rate": 10
-            },
-	    {
-                "id": "634974810429385",
-                "name": "Ninja Hit",
-                 "icon": "https://i.imgur.com/VCcxQuR.png",
-                 "screenshot": "https://i.imgur.com/uLlC3rZ.png",
-                "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
-                "rate": 20
-            } 
+            }
+	   
         ],
-		
         "TEST": [
             {
                 "id": "3280083422063465",
@@ -114,7 +148,12 @@
             {
                 "set": "thset",
                 "players": [],
-                "countries": ["th","vi"]
+                "countries": ["th"]
+            },
+			{
+                "set": "viset",
+                "players": [],
+                "countries": ["vi"]
             }
 			
         ],
