@@ -1,5 +1,5 @@
 {
-    "version": 15,
+    "version": 16,
     "sets": {
         "default": [            
             {
@@ -31,7 +31,7 @@
                 "name": "Candy Kingdom",
                 "icon": "https://i.imgur.com/14HKjD1.png",
                 "screenshot": "https://i.imgur.com/MRopjrx.jpg",
-                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "", "x": 0, "y": 0},
+                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "", "x": 0, "y": -360},
                 "rate": 10
             },
            	{
