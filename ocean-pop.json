@@ -1,55 +1,14 @@
 {
-    "version": 16,
+    "version": 17,
     "sets": {
-        "default": [            
-            {
-                "id": "2492644277420233",
-                "name": "Egg Shoot",
-                "icon": "https://i.imgur.com/IywfC4x.png",
-                "screenshot": "https://i.imgur.com/oiPwLMH.jpg",
-                "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "", "x": 0, "y": -120},
-                "rate": 20
-            }, 
-			 {
-                "id": "347909499499999",
-                "name": "Jumping Girl",
-                 "icon": "https://i.imgur.com/dPfRbzi.png",
-                "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
-                "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -420},
-                "rate": 40
-            },
-            {
-                "id": "1043181865796678",
-                "name": "Connect Animals",
-                "icon": "https://i.imgur.com/eDa10hU.png",
-                "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "", "x": 0, "y": -370},
-                "rate": 20
-            } ,
-            {
-                "id": "3280083422063465",
-                "name": "Candy Kingdom",
-                "icon": "https://i.imgur.com/14HKjD1.png",
-                "screenshot": "https://i.imgur.com/MRopjrx.jpg",
-                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "", "x": 0, "y": -360},
-                "rate": 10
-            },
-           	{
-                "id": "529117187574163",
-                "name": "Color Link",
-                "icon": "https://i.imgur.com/3vTZqkS.jpg",
-                "screenshot": "https://i.imgur.com/JdyLwSU.png",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "", "x": 0, "y": -360 },
-                "rate": 10
-            }
-        ],
+        "default": [{"id":"2492644277420233","name":"Egg Shoot","icon":"https://i.imgur.com/TrpwHTG.png","screenshot":"https://i.imgur.com/oiPwLMH.jpg","button":{"image":"https://i.imgur.com/DMkstbl.png","text":"","x":0,"y":-260},"rate":10},{"id":"347909499499999","name":"Jumping Girl","icon":"https://i.imgur.com/dPfRbzi.png","screenshot":"https://i.imgur.com/sY1Ri8n.jpg","button":{"image":"https://i.imgur.com/O1PdIpX.png","text":"","x":0,"y":-360},"rate":60},{"id":"1043181865796678","name":"Connect Animals","icon":"https://i.imgur.com/JClSMev.png","screenshot":"https://i.imgur.com/Lo31gPP.jpg","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":10},{"id":"3280083422063465","name":"Candy Kingdom","icon":"https://i.imgur.com/YbxKz77.png","screenshot":"https://i.imgur.com/MRopjrx.jpg","button":{"image":"https://i.imgur.com/7cIPKnk.png","text":"","x":0,"y":-360},"rate":10},{"id":"529117187574163","name":"Color Link","icon":"https://i.imgur.com/6h4gcVj.png","screenshot":"https://i.imgur.com/JdyLwSU.png","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":10}],
         "TEST": [{"id":"2492644277420233","name":"Egg Shoot","icon":"https://i.imgur.com/TrpwHTG.png","screenshot":"https://i.imgur.com/oiPwLMH.jpg","button":{"image":"https://i.imgur.com/DMkstbl.png","text":"","x":0,"y":-260},"rate":20},{"id":"347909499499999","name":"Jumping Girl","icon":"https://i.imgur.com/dPfRbzi.png","screenshot":"https://i.imgur.com/sY1Ri8n.jpg","button":{"image":"https://i.imgur.com/O1PdIpX.png","text":"","x":0,"y":-360},"rate":40},{"id":"1043181865796678","name":"Connect Animals","icon":"https://i.imgur.com/JClSMev.png","screenshot":"https://i.imgur.com/Lo31gPP.jpg","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":20},{"id":"3280083422063465","name":"Candy Kingdom","icon":"https://i.imgur.com/YbxKz77.png","screenshot":"https://i.imgur.com/MRopjrx.jpg","button":{"image":"https://i.imgur.com/7cIPKnk.png","text":"","x":0,"y":-360},"rate":10},{"id":"529117187574163","name":"Color Link","icon":"https://i.imgur.com/6h4gcVj.png","screenshot":"https://i.imgur.com/JdyLwSU.png","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":10}]
     },
     "rules": {
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2168891876536785","2293990630680982"]
+                "players": ["2168891876536785"]
             },
             {
                 "set": "viset",
