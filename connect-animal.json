@@ -1,5 +1,5 @@
 {
-    "version": 30,
+    "version": 31,
     "sets": {
         "default": [
 			{
@@ -8,7 +8,7 @@
                 "icon": "https://i.imgur.com/1Lcfr8O.png",
                 "screenshot": "https://i.ibb.co/MGG1kph/line98-hoz.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
-                "rate": 5
+                "rate": 20
             }, 
 			{
                 "id": "263413200935442",
@@ -16,7 +16,7 @@
                 "icon": "https://i.imgur.com/fbi5SAF.png",
                 "screenshot": "https://i.imgur.com/MwMJwGJ.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 5
+                "rate": 20
             },		
 			{
                 "id": "299186917512190",
@@ -24,7 +24,7 @@
                 "icon": "https://i.imgur.com/KGvDR3d.png",
                 "screenshot": "https://i.imgur.com/svsgKcr.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 5
+                "rate": 20
             },
 			{
                 "id": "982308051971150",
@@ -32,7 +32,7 @@
                 "icon": "https://i.imgur.com/mx2tRV2.png",
                 "screenshot": "https://i.imgur.com/VIlIt4o.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 5
+                "rate": 20
             },			
 			{
                 "id": "545660589189320",
@@ -40,47 +40,7 @@
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/lo66G9E.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 5
-            },
-			{
-                "id": "529117187574163",
-                "name": "Color Link",
-                "icon": "https://i.imgur.com/3vTZqkS.jpg",
-                "screenshot": "https://i.ibb.co/g9dm4qd/colorlink-hoz.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": 0},
-                "rate": 25
-            },
-            {
-                "id": "2492644277420233",
-                "name": "Egg Shoot",
-                "icon": "https://i.imgur.com/IywfC4x.png",
-                "screenshot": "https://i.imgur.com/iQf9KaQ.jpg",
-                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 10
-            }, 
-			 {
-                "id": "347909499499999",
-                "name": "Jumping Girl",
-                "icon": "https://i.imgur.com/dPfRbzi.png",
-                "screenshot": "https://i.imgur.com/RF6EJVm.jpg",
-                "button": {"image": "https://i.ibb.co/jRHzNN3/play-Now-Red.png", "text": "", "x": 0, "y": -200},
-                "rate": 10
-            }, 
-			{
-                "id": "3280083422063465",
-                "name": "Candy Kingdom",
-                "icon": "https://i.ibb.co/wQK65Rg/candy-icon.png",
-                "screenshot": "https://i.ibb.co/VQLp6cS/candy-hoz.jpg",
-                "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
-                "rate": 15
-            },
-			{
-                "id": "227788504726017",
-                "name": "Shoot Bubbles",
-                "icon": "https://i.imgur.com/cmA3MUO.png",
-                "screenshot": "https://i.ibb.co/LdMj4xH/bubble-hoz.jpg",
-                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -240 },
-                "rate": 15
+                "rate": 20
             }
               
         ],
@@ -93,38 +53,6 @@
                 "screenshot": "https://i.ibb.co/VQLp6cS/candy-hoz.jpg",
                 "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
                 "rate": 15
-            },
-			{
-                "id": "498866996936248",
-                "name": "Line 98",
-                "icon": "https://i.imgur.com/1Lcfr8O.png",
-                "screenshot": "https://i.ibb.co/MGG1kph/line98-hoz.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
-                "rate": 0
-            }, 
-			{
-                "id": "227788504726017",
-                "name": "Shoot Bubbles",
-                "icon": "https://i.imgur.com/cmA3MUO.png",
-                "screenshot": "https://i.ibb.co/LdMj4xH/bubble-hoz.jpg",
-                "button": {"image": "https://i.imgur.com/VHIY9yk.png", "text": "Play Now", "x": 0, "y": -240 },
-                "rate": 50
-            },
-			{
-                "id": "529117187574163",
-                "name": "Color Link",
-                "icon": "https://i.imgur.com/3vTZqkS.jpg",
-                "screenshot": "https://i.ibb.co/g9dm4qd/colorlink-hoz.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": 0},
-                "rate": 0
-            },
-			{
-                "id": "2492644277420233",
-                "name": "Egg Shoot",
-                "icon": "https://i.imgur.com/IywfC4x.png",
-                "screenshot": "https://i.ibb.co/VLFF1mh/egg-hoz.png",
-                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "Play Now", "x": 360, "y": -110},
-                "rate": 50
             }
         ]
     },
@@ -132,7 +60,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2413239652035747","2560208193991190"]
+                "players": ["2413239652035747"]
             },
             {
                 "set": "viset",
