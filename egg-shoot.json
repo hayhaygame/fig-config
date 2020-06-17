@@ -1,5 +1,5 @@
 {
-    "version": 37,
+    "version": 38,
     "sets": {
         "default": [
             {
@@ -16,7 +16,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 60
+                "rate": 25
             },
             {
                 "id": "1043181865796678",
@@ -40,7 +40,7 @@
                 "icon": "https://i.imgur.com/Wek57Ep.png",
                  "screenshot": "https://i.imgur.com/JdyLwSU.png",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": -360 },
-                "rate": 5
+                "rate": 0
             },
             {
                 "id": "634974810429385",
@@ -48,7 +48,7 @@
                  "icon": "https://i.imgur.com/VCcxQuR.png",
                 "screenshot": "https://i.imgur.com/uLlC3rZ.png",
                 "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
-                "rate": 20
+                "rate": 60
             } 
         ], 
 	"thset": [
@@ -58,7 +58,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                  "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 60
+                "rate": 25
             },
             {
                 "id": "1043181865796678",
@@ -66,7 +66,7 @@
                 "icon": "https://i.imgur.com/JClSMev.png",
                 "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 10
+                "rate": 5
             },
             {
                 "id": "3280083422063465",
@@ -90,7 +90,7 @@
                  "icon": "https://i.imgur.com/VCcxQuR.png",
                  "screenshot": "https://i.imgur.com/uLlC3rZ.png",
                 "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
-                "rate": 20
+                "rate": 60
             } 
         ],
 		"viset": [
@@ -100,7 +100,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                  "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 55
+                "rate": 25
             },
             {
                 "id": "1043181865796678",
@@ -132,7 +132,7 @@
                  "icon": "https://i.imgur.com/VCcxQuR.png",
                 "screenshot": "https://i.imgur.com/uLlC3rZ.png",
                 "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
-                "rate": 30
+                "rate": 60
             } 
 	   
         ],
