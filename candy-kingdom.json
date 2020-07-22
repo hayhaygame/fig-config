@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "sets": {
         "default": [
 			{
@@ -49,9 +49,16 @@
                 "id": "529117187574163",
                 "name": "Color Link",
                 "icon": "https://i.imgur.com/3vTZqkS.jpg",
-                "screenshot": "https://i.ibb.co/g9dm4qd/colorlink-hoz.jpg",
+                "screenshot": "https://i.imgur.com/UEZEA6Y.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": 0},
                 "rate": 0
+            }, {
+                "id": "190367968913670",
+                "name": "Pair Matching",
+                "icon": "https://i.imgur.com/WCnXBJz.png",
+                "screenshot": "https://i.imgur.com/JYz3FYW.jpg",
+                "button": {"image": "https://i.imgur.com/iLqkACs.png", "text": "", "x": 300, "y": -250},
+                "rate": 100
             }
         ]
     },
