@@ -1,5 +1,5 @@
 {
-    "version": 6,
+    "version": 7,
     "sets": {
         "default": [            
             {
@@ -18,23 +18,15 @@
                 "icon": "https://i.imgur.com/14HKjD1.png",
                 "screenshot": "https://i.imgur.com/MRopjrx.jpg",
                 "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 0
-            } ,
-            {
-                "id": "634974810429385",
-                "name": "Ninja Hit",
-                 "icon": "https://i.imgur.com/PAr2hZ1.png",
-                "screenshot": "https://i.ibb.co/CtcRXfS/ninja-vec.jpg",
-                "button": {"image": "https://i.ibb.co/RjZR7WV/button-en.png", "text": "", "x": 0, "y": -350 },
-                "rate": 0 
-            } , 
+                "rate": 1
+            },
              {
                 "id": "190367968913670",
                 "name": "Pair Matching",
                 "icon": "https://i.imgur.com/WCnXBJz.png",
                 "screenshot": "https://i.imgur.com/rXpRKca.jpg",
                 "button": {"image": "https://i.imgur.com/iLqkACs.png", "text": "", "x": 300, "y": -250},
-                "rate": 100
+                "rate": 99
             }
         ]
     },
