@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "sets": {
         "default": [            
             {
@@ -26,8 +26,16 @@
                  "icon": "https://i.imgur.com/PAr2hZ1.png",
                 "screenshot": "https://i.ibb.co/CtcRXfS/ninja-vec.jpg",
                 "button": {"image": "https://i.ibb.co/RjZR7WV/button-en.png", "text": "", "x": 0, "y": -350 },
+                "rate": 0 
+            } , 
+             {
+                "id": "190367968913670",
+                "name": "Pair Matching",
+                "icon": "https://i.imgur.com/WCnXBJz.png",
+                "screenshot": "https://i.imgur.com/rXpRKca.jpg",
+                "button": {"image": "https://i.imgur.com/iLqkACs.png", "text": "", "x": 300, "y": -250},
                 "rate": 100
-            } 
+            }
         ]
     },
     "rules": {
