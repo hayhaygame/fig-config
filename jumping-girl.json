@@ -1,5 +1,5 @@
 {
-    "version": 9,
+    "version": 10,
     "sets": {
         "default": [            
             {
@@ -8,7 +8,15 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/oiPwLMH.jpg",
                 "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "", "x": 0, "y": -120},
-                "rate": 100
+                "rate": 20
+            }, 
+             {
+                "id": "190367968913670",
+                "name": "Pair Matching",
+                "icon": "https://i.imgur.com/WCnXBJz.png",
+                "screenshot": "https://i.imgur.com/Ix3oFZw.jpg",
+                "button": {"image": "https://i.imgur.com/iLqkACs.png", "text": "", "x": 0, "y": -350},
+                "rate": 80
             }
         ],
         "TEST": [            
@@ -34,7 +42,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2168891876536785", "3021912397892526"]
+                "players": ["216889187653678511", "302191239789252611"]
             },
             {
                 "set": "viset",
