@@ -1,5 +1,5 @@
 {
-    "version": 39,
+    "version": 40,
     "sets": {
         "default": [
             {
@@ -8,7 +8,7 @@
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 5
+                "rate": 20
             }, 
 	    {
                 "id": "347909499499999",
@@ -16,7 +16,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 60
+                "rate": 45
             },
             {
                 "id": "1043181865796678",
@@ -50,7 +50,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                  "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 60
+                "rate": 45
             },
             {
                 "id": "1043181865796678",
@@ -76,13 +76,21 @@
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play now", "x": 0, "y": -200 },
                 "rate": 5
             },
-	    {
+			{
+                "id": "227788504726017",
+                "name": "Shoot Bubbles",
+                "icon": "https://i.imgur.com/cmA3MUO.png",
+                "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 20
+            },
+	        {
                 "id": "634974810429385",
                 "name": "Ninja Hit",
                  "icon": "https://i.imgur.com/VCcxQuR.png",
                  "screenshot": "https://i.imgur.com/uLlC3rZ.png",
                 "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
-                "rate": 25
+                "rate": 20
             } 
         ],
 		"viset": [
@@ -92,7 +100,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                  "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 60
+                "rate": 45
             },
             {
                 "id": "1043181865796678",
@@ -124,8 +132,16 @@
                  "icon": "https://i.imgur.com/VCcxQuR.png",
                 "screenshot": "https://i.imgur.com/uLlC3rZ.png",
                 "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
-                "rate": 25
-            } 
+                "rate": 20
+            },
+			{
+                "id": "227788504726017",
+                "name": "Shoot Bubbles",
+                "icon": "https://i.imgur.com/cmA3MUO.png",
+                "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 20
+            }
 	   
         ],
         "TEST": [
@@ -143,7 +159,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2439569439417466","2293807484024628"]
+                "players": []
             },
             {
                 "set": "thset",
