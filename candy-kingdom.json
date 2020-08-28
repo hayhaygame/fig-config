@@ -1,7 +1,15 @@
 {
-    "version": 8,
+    "version":9,
     "sets": {
         "default": [
+		{
+                "id": "2492644277420233",
+                "name": "Egg Shoot",
+                "icon": "https://i.imgur.com/IywfC4x.png",
+                "screenshot": "https://i.imgur.com/iKj1rRZ.png",
+                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "", "x": 430, "y": -120},
+                "rate": 80
+            },
 			{
                 "id": "498866996936248",
                 "name": "Line 98",
@@ -16,7 +24,7 @@
                 "icon": "https://i.imgur.com/fbi5SAF.png",
                 "screenshot": "https://i.imgur.com/MwMJwGJ.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 20
+                "rate": 0
             },		
 			{
                 "id": "299186917512190",
@@ -32,7 +40,7 @@
                 "icon": "https://i.imgur.com/mx2tRV2.png",
                 "screenshot": "https://i.imgur.com/VIlIt4o.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 20
+                "rate": 0
             },			
 			{
                 "id": "545660589189320",
@@ -40,7 +48,7 @@
                 "icon": "https://i.imgur.com/DXnuZpg.png",
                 "screenshot": "https://i.imgur.com/lo66G9E.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 20
+                "rate": 0
             }
               
         ],
