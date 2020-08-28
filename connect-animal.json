@@ -1,5 +1,5 @@
 {
-    "version": 32,
+    "version": 33,
     "sets": {
         "default": [
 			{
@@ -8,41 +8,25 @@
                 "icon": "https://i.imgur.com/1Lcfr8O.png",
                 "screenshot": "https://i.imgur.com/NAMnrwj.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
-                "rate": 20
-            }, 
-			{
-                "id": "263413200935442",
-                "name": "Connect Fruit",
-                "icon": "https://i.imgur.com/fbi5SAF.png",
-                "screenshot": "https://i.imgur.com/MwMJwGJ.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 20
-            },		
-			{
-                "id": "299186917512190",
-                "name": "Food Connect",
-                "icon": "https://i.imgur.com/KGvDR3d.png",
-                "screenshot": "https://i.imgur.com/svsgKcr.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 20
+                "rate": 50
+            },  
+			 {
+                "id": "347909499499999",
+                "name": "Jumping Girl",
+                "icon": "https://i.imgur.com/dPfRbzi.png",
+                "screenshot": "https://i.imgur.com/RF6EJVm.jpg",
+                "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "", "x": 0, "y": -200},
+                "rate": 30
             },
-			{
-                "id": "982308051971150",
-                "name": "Lucky Number",
-                "icon": "https://i.imgur.com/mx2tRV2.png",
-                "screenshot": "https://i.imgur.com/VIlIt4o.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 20
-            },			
-			{
-                "id": "545660589189320",
-                "name": "Galaxy Attack",
-                "icon": "https://i.imgur.com/DXnuZpg.png",
-                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
+				{
+                "id": "529117187574163",
+                "name": "Color Link",
+                "icon": "https://i.imgur.com/Wek57Ep.png",
+                 "screenshot": "https://i.imgur.com/UEZEA6Y.jpg",
+                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": -200 },
                 "rate": 20
             }
-              
+
         ],
         "TEST": [
 		
