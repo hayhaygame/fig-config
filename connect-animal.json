@@ -1,5 +1,5 @@
 {
-    "version": 33,
+    "version": 34,
     "sets": {
         "default": [
 			{
@@ -23,7 +23,7 @@
                 "name": "Color Link",
                 "icon": "https://i.imgur.com/Wek57Ep.png",
                  "screenshot": "https://i.imgur.com/UEZEA6Y.jpg",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": -200 },
+                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "", "x": 0, "y": -200 },
                 "rate": 20
             }
 
