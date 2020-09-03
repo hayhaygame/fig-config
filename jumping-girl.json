@@ -1,5 +1,5 @@
 {
-    "version": 12,
+    "version": 13,
     "sets": {
         "default": [            
             {
@@ -34,7 +34,7 @@
                 "icon": "https://i.imgur.com/14HKjD1.png",
                 "screenshot": "https://i.imgur.com/MRopjrx.jpg",
                 "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 1
+                "rate": 10
             },
              {
                 "id": "190367968913670",
@@ -42,15 +42,15 @@
                 "icon": "https://i.imgur.com/WCnXBJz.png",
                 "screenshot": "https://i.imgur.com/Ix3oFZw.jpg",
                 "button": {"image": "https://i.imgur.com/iLqkACs.png", "text": "", "x": 0, "y": -350},
-                "rate": 99
+                "rate": 90
             }
         ]
     },
     "rules": {
         "distributions": [
-            {
+            {4276145895736294
                 "set": "TEST",
-                "players": ["216889187653678511", "302191239789252611"]
+                "players": ["216889187653678511", "302191239789252611","4276145895736294"]
             },
             {
                 "set": "viset",
