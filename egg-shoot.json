@@ -1,5 +1,5 @@
 {
-    "version": 43,
+    "version": 44,
     "sets": {
         "default": [
             {
@@ -58,7 +58,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                  "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 25
+                "rate": 15
             },
             {
                 "id": "1043181865796678",
@@ -98,16 +98,23 @@
                  "icon": "https://i.imgur.com/VCcxQuR.png",
                  "screenshot": "https://i.imgur.com/uLlC3rZ.png",
                 "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
-                "rate": 20
+                "rate": 15
             } ,
-	  {
-		"id": "1224362211248752",
-                "name": "Basket Hit",
-                 "icon": "https://i.imgur.com/BiB1taV.png",
-                "screenshot": "https://i.imgur.com/MDGxAx7.jpg",
-                "button": {"image": "https://i.imgur.com/PJRgOHA.png", "text": "", "x": 0, "y": -350 },
-		  "rate": 20
-	 }
+			  {
+				"id": "1224362211248752",
+						"name": "Basket Hit",
+						 "icon": "https://i.imgur.com/BiB1taV.png",
+						"screenshot": "https://i.imgur.com/MDGxAx7.jpg",
+						"button": {"image": "https://i.imgur.com/PJRgOHA.png", "text": "", "x": 0, "y": -350 },
+				  "rate": 15
+			 },
+			 {
+				  "id":"190367968913670",
+				  "name":"Pair Matching",
+				  "icon":"https://i.imgur.com/WCnXBJz.png",
+				  "screenshot":"https://i.imgur.com/Ix3oFZw.jpg",
+				  "button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":0,"y":-350},"rate":20
+			 }
         ],
 		"viset": [
 			{
@@ -116,7 +123,7 @@
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                  "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 25
+                "rate": 15
             },
             {
                 "id": "1043181865796678",
@@ -156,7 +163,7 @@
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 20
+                "rate": 15
             },
 	   {
 		"id": "1224362211248752",
@@ -164,9 +171,15 @@
                  "icon": "https://i.imgur.com/BiB1taV.png",
                 "screenshot": "https://i.imgur.com/MDGxAx7.jpg",
                 "button": {"image": "https://i.imgur.com/PJRgOHA.png", "text": "", "x": 0, "y": -350 },
-		  "rate": 20
-	    }
-	   
+		  "rate": 15
+	    }, 
+		{
+		  "id":"190367968913670",
+		  "name":"Pair Matching",
+		  "icon":"https://i.imgur.com/WCnXBJz.png",
+		  "screenshot":"https://i.imgur.com/Ix3oFZw.jpg",
+		  "button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":0,"y":-350},"rate":20
+		 }
         ],
         "TEST": [
             {
