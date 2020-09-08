@@ -1,5 +1,5 @@
 {
-    "version": 45,
+    "version": 46,
     "sets": {
         "default": [
             {
@@ -94,18 +94,7 @@
             {
                 "set": "TEST",
                 "players": []
-            },
-            {
-                "set": "thset",
-                "players": [],
-                "countries": ["th"]
-            },
-			{
-                "set": "viset",
-                "players": [],
-                "countries": ["vi"]
-            }
-			
+            }	
         ],
         "interstitial":  [2, 7, 12, 16, 20],
         "click-adjust": 0.5,
