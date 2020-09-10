@@ -1,0 +1,44 @@
+{
+    "version": 1,
+    "sets": {
+        "default": [
+            {
+                "id": "227788504726017",
+                "name": "Shoot Bubbles",
+                "icon": "https://i.imgur.com/cmA3MUO.png",
+                "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 40
+            }, 
+	       {
+                "id": "347909499499999",
+                "name": "Jumping Girl",
+                "icon": "https://i.imgur.com/dPfRbzi.png",
+                "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
+                "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
+                "rate": 5
+            },
+        ],
+        "TEST": [
+            {
+                "id": "3280083422063465",
+                "name": "Candy Kingdom",
+                "icon": "https://i.imgur.com/14HKjD1.png",
+                "screenshot": "https://i.imgur.com/MRopjrx.jpg",
+                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 100
+            }
+        ]
+    },
+    "rules": {
+        "distributions": [
+            {
+                "set": "TEST",
+                "players": []
+            }	
+        ],
+        "interstitial":  [1, 2, 3, 4, 5, 7, 12, 16, 20],
+        "click-adjust": 0.5,
+        "view-adjust": 0.1
+    }
+}
