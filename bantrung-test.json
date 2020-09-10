@@ -35,7 +35,12 @@
             {
                 "set": "TEST",
                 "players": []
-            }	
+            },
+		{
+                "set": "viset",
+                "players": [],
+                "countries": ["vi"]
+            }
         ],
         "interstitial":  [1, 2, 3, 4, 5, 7, 12, 16, 20],
         "click-adjust": 0.5,
