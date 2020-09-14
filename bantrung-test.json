@@ -7,18 +7,18 @@
                 "name": "Shoot Bubbles",
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
-		"banner": "https://scontent.fhan3-3.fna.fbcdn.net/v/t39.2081-0/83860012_392086224962910_1667860754520342528_n.jpg?_nc_cat=106&_nc_sid=b12fbb&_nc_ohc=mZjHMI_Oq2YAX8Efv_h&_nc_ht=scontent.fhan3-3.fna&oh=f3fcb81d93ae590b6d0d9b9678850c71&oe=5F7ECBAF",
+		"banner": "https://i.imgur.com/3ku3eta.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 40
+                "rate": 50
             }, 
 	       {
                 "id": "347909499499999",
                 "name": "Jumping Girl",
                 "icon": "https://i.imgur.com/dPfRbzi.png",
                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
-		"banner": "https://scontent.fhan3-3.fna.fbcdn.net/v/t39.2081-0/93879941_359995178291431_8717139467334320128_n.png?_nc_cat=100&_nc_sid=b12fbb&_nc_ohc=u5eaeN2aoGQAX_5PVQO&_nc_ht=scontent.fhan3-3.fna&oh=4efd29a1129350d56b270d438275eaab&oe=5F7FF970",
+		"banner": "https://i.imgur.com/kg0JSzj.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 10
+                "rate": 50
             }
         ],
         "TEST": [
