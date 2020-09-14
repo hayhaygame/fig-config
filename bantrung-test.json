@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "sets": {
         "default": [
             {
@@ -9,7 +9,7 @@
                 "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
 		"banner": "https://i.imgur.com/3ku3eta.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 50
+                "rate": 40
             }, 
 	       {
                 "id": "347909499499999",
@@ -18,7 +18,16 @@
                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
 		"banner": "https://i.imgur.com/kg0JSzj.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 50
+                "rate": 30
+            },
+		{
+                "id": "1043181865796678",
+                "name": "Connect Animals",
+                "icon": "https://i.imgur.com/JClSMev.png",
+                "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
+		"banner": "https://i.imgur.com/JlgyrMM.jpg"
+                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 30
             }
         ],
         "TEST": [
