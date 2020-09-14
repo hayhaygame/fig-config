@@ -25,7 +25,7 @@
                 "name": "Connect Animals",
                 "icon": "https://i.imgur.com/JClSMev.png",
                 "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
-		"banner": "https://i.imgur.com/JlgyrMM.jpg"
+		"banner": "https://i.imgur.com/JlgyrMM.jpg",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 30
             }
