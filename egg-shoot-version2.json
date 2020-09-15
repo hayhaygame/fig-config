@@ -7,7 +7,7 @@
                 "name": "Shoot Bubbles",
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
-		"banner": "https://i.imgur.com/3ku3eta.jpg",
+		"banner": "https://i.imgur.com/IvVcRBz.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
                 "rate": 40
             }, 
@@ -79,7 +79,7 @@
 		"name": "Draw Battle",
 		"icon": "https://i.imgur.com/XWuntME.png",
 		 "screenshot": "https://i.imgur.com/GqT3Jk3.png",
-		 "banner": "https://i.imgur.com/BFBveYV.jpg",
+		 "banner": "https://i.imgur.com/Ly8q1uS.jpg",
 		"button": {"image": "https://i.imgur.com/udeQLeM.png", "text": "", "x": 0, "y": -300 },
 		"rate": 10
 	 }
