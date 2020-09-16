@@ -61,7 +61,7 @@
 		"name": "Basket Hit",
 		"icon": "https://i.imgur.com/BiB1taV.png",
 		"screenshot": "https://i.imgur.com/MDGxAx7.jpg",
-		"banner": "https://i.imgur.com/UqOsNyn.jpg",
+		"banner": "https://i.imgur.com/asgj3qQ.jpg",
 		"button": {"image": "https://i.imgur.com/PJRgOHA.png", "text": "", "x": 0, "y": -350 },
 		"rate": 15
 	},
@@ -70,7 +70,7 @@
 		"name":"Pair Matching",
 		"icon":"https://i.imgur.com/WCnXBJz.png",
 		"screenshot":"https://i.imgur.com/Ix3oFZw.jpg",
-		 "banner": "https://i.imgur.com/A2UfIXq.jpg",
+		 "banner": "https://i.imgur.com/pRlHpXq.png",
 		"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":0,"y":-350},
 		"rate":20
 	 },
