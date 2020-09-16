@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 4,
     "sets": {
         "default": [
 	    {
@@ -52,7 +52,7 @@
                 "name": "Ninja Hit",
                 "icon": "https://i.imgur.com/VCcxQuR.png",
                 "screenshot": "https://i.imgur.com/uLlC3rZ.png",
-	    	"banner": "https://i.imgur.com/RlNX5nU.png",
+	    	"banner": "https://i.imgur.com/AdT5wmp.jpg",
                 "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
                 "rate": 5
             } ,
