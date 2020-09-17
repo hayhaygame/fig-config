@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "sets": {
         "default": [
 	    {
@@ -168,11 +168,11 @@
 			 }, 
 			 {
 				"id": "220801932630391",
-                "name": "OnetX Connect Animals",
-                "icon": "https://i.imgur.com/dJvBPAO.jpg",
-                 "screenshot": "https://i.imgur.com/LKtatmr.jpg",
+                		"name": "OnetX Connect Animals",
+                		"icon": "https://i.imgur.com/dJvBPAO.jpg",
+                 		"screenshot": "https://i.imgur.com/LKtatmr.jpg",
 				  "banner": "https://i.imgur.com/cg0Jp4Q.png",
-                "button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 0, "y": -300 },
+                		"button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 0, "y": -300 },
 				"rate": 10
 			 }
         ]
@@ -181,7 +181,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["3311900458870234"]
+                "players": ["3311900458870234","2425761820774458"]
             }
         ],
         "interstitial":  [2, 7, 12, 16, 20],
