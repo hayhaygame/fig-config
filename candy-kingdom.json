@@ -1,59 +1,8 @@
 {
-    "version":12,
+    "version":13,
     "sets": {
         "default": [
-		{
-                "id": "2492644277420233",
-                "name": "Egg Shoot",
-                "icon": "https://i.imgur.com/IywfC4x.png",
-                "screenshot": "https://i.imgur.com/iKj1rRZ.png",
-                "button": {"image": "https://i.imgur.com/JjHB6BA.png", "text": "", "x": 430, "y": -120},
-                "rate": 20
-            },
-			{
-                "id": "498866996936248",
-                "name": "Line 98",
-                "icon": "https://i.imgur.com/1Lcfr8O.png",
-                "screenshot": "https://i.imgur.com/NAMnrwj.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
-                "rate": 20
-            }, 
-			{
-                "id": "263413200935442",
-                "name": "Connect Fruit",
-                "icon": "https://i.imgur.com/fbi5SAF.png",
-                "screenshot": "https://i.imgur.com/MwMJwGJ.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 0
-            },		
-			{
-                "id": "299186917512190",
-                "name": "Food Connect",
-                "icon": "https://i.imgur.com/KGvDR3d.png",
-                "screenshot": "https://i.imgur.com/svsgKcr.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 0
-            },
-			{
-                "id": "982308051971150",
-                "name": "Lucky Number",
-                "icon": "https://i.imgur.com/mx2tRV2.png",
-                "screenshot": "https://i.imgur.com/VIlIt4o.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 0
-            },			
-			{
-                "id": "545660589189320",
-                "name": "Galaxy Attack",
-                "icon": "https://i.imgur.com/DXnuZpg.png",
-                "screenshot": "https://i.imgur.com/lo66G9E.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": -200},
-                "rate": 60
-            }
-              
-        ],
-        "TEST": [
-			{
+	  {
                 "id": "498866996936248",
                 "name": "Line 98",
                 "icon": "https://i.imgur.com/1Lcfr8O.png",
@@ -65,17 +14,21 @@
                "id": "220801932630391",
                 "name": "OnetX Connect",
                 "icon": "https://i.imgur.com/dJvBPAO.jpg",
-                 "screenshot": "https://i.imgur.com/uVzS1Fh.png",
-                "button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 300, "y": -150 },
-				"rate": 50
+                 "screenshot": "https://i.imgur.com/oIujbvL.jpg",
+                "button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 500, "y": -150 },
+		"rate": 50
             }
+              
+        ],
+        "TEST": [
+		
         ]
     },
     "rules": {
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2413239652035747","3485359544860842"]
+                "players": []
             },
             {
                 "set": "viset",
