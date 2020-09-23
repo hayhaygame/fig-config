@@ -1,5 +1,5 @@
 {
-    "version":11,
+    "version":12,
     "sets": {
         "default": [
 		{
@@ -54,19 +54,20 @@
         ],
         "TEST": [
 			{
-                "id": "529117187574163",
-                "name": "Color Link",
-                "icon": "https://i.imgur.com/3vTZqkS.jpg",
-                "screenshot": "https://i.imgur.com/UEZEA6Y.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 0, "y": 0},
-                "rate": 0
-            }, {
-                "id": "190367968913670",
-                "name": "Pair Matching",
-                "icon": "https://i.imgur.com/WCnXBJz.png",
-                "screenshot": "https://i.imgur.com/JYz3FYW.jpg",
-                "button": {"image": "https://i.imgur.com/iLqkACs.png", "text": "", "x": 0, "y": -300},
-                "rate": 100
+                "id": "498866996936248",
+                "name": "Line 98",
+                "icon": "https://i.imgur.com/1Lcfr8O.png",
+                "screenshot": "https://i.imgur.com/NAMnrwj.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
+                "rate": 50
+            }, 
+			{
+               "id": "220801932630391",
+                "name": "OnetX Connect",
+                "icon": "https://i.imgur.com/dJvBPAO.jpg",
+                 "screenshot": "https://i.imgur.com/uVzS1Fh.png",
+                "button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 300, "y": -150 },
+				"rate": 50
             }
         ]
     },
@@ -74,7 +75,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2413239652035747","2447845441993772"]
+                "players": ["2413239652035747","3485359544860842"]
             },
             {
                 "set": "viset",
