@@ -1,5 +1,5 @@
 {
-    "version": 34,
+    "version": 36,
     "sets": {
         "default": [
 			{
@@ -9,24 +9,15 @@
                 "screenshot": "https://i.imgur.com/NAMnrwj.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
                 "rate": 50
-            },  
-			 {
-                "id": "347909499499999",
-                "name": "Jumping Girl",
-                "icon": "https://i.imgur.com/dPfRbzi.png",
-                "screenshot": "https://i.imgur.com/RF6EJVm.jpg",
-                "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "", "x": 0, "y": -200},
-                "rate": 30
-            },
-				{
-                "id": "529117187574163",
-                "name": "Color Link",
-                "icon": "https://i.imgur.com/Wek57Ep.png",
-                 "screenshot": "https://i.imgur.com/UEZEA6Y.jpg",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "", "x": 0, "y": -200 },
-                "rate": 20
+            },  	
+   	   {
+               "id": "220801932630391",
+                "name": "OnetX Connect",
+                "icon": "https://i.imgur.com/dJvBPAO.jpg",
+                 "screenshot": "https://i.imgur.com/oIujbvL.jpg",
+                "button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 500, "y": -150 },
+		"rate": 50
             }
-
         ],
         "TEST": [
 		
@@ -44,7 +35,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2413239652035747"]
+                "players": []
             },
             {
                 "set": "viset",
