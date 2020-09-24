@@ -1,32 +1,34 @@
 {
-    "version": 2,
+    "version": 3,
     "sets": {
         "default": [            
-            {
-                "id": "2492644277420233",
-                "name": "Egg Shoot",
-                "icon": "https://i.imgur.com/IywfC4x.png",
-                "screenshot": "https://i.imgur.com/oiPwLMH.jpg",
-                "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "", "x": 0, "y": -120},
-                "rate": 100
-            }
+        
+			 {
+				"id": "220801932630391",
+				"name": "OnetX Animals",
+				"icon": "https://i.imgur.com/dJvBPAO.jpg",
+				"screenshot": "https://i.imgur.com/LKtatmr.jpg",
+				"button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 0, "y": -350 },
+				"rate": 50
+			 },
+			 {
+				"id":"1043181865796678",
+				"name":"Connect Animals",
+				"icon":"https://i.imgur.com/JClSMev.png",
+				"screenshot":"https://i.imgur.com/Lo31gPP.jpg",
+				"button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},
+				"rate":50
+			}
         ],
         "TEST": [            
-            {
-                "id": "3280083422063465",
-                "name": "Candy Kingdom",
-                "icon": "https://i.imgur.com/14HKjD1.png",
-                "screenshot": "https://i.imgur.com/MRopjrx.jpg",
-                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 10
-            } 
+           
         ]
     },
     "rules": {
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2168891876536785"]
+                "players": []
             },
             {
                 "set": "viset",
