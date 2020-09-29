@@ -1,5 +1,5 @@
 {
-    "version": 10,
+    "version": 11,
     "sets": {
         "default": [
 			 {
@@ -95,7 +95,7 @@
                 "players": []
             }
         ],
-        "interstitial":  [2, 7, 12, 16, 20],
+        "interstitial":  [12, 17, 22, 26, 30],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
