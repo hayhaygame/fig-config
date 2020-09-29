@@ -1,0 +1,26 @@
+{
+    "version": 11,
+    "sets": {
+        "default": [
+			      {
+                "tour_id": "3275506095838026",
+                "tour_time": "1601455986"
+           },
+           {
+                "tour_id": "3275506095838026",
+                "tour_time": "1601455986"
+           }
+        ],
+        "TEST": [
+            
+        ]
+    },
+    "rules": {
+        "distributions": [
+            {
+                "set": "TEST",
+                "players": []
+            }
+        ]
+    }
+}
