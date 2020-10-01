@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "sets": {
         "default": [            
         
@@ -26,7 +26,7 @@
                 "name": "Line 98",
                 "icon": "https://i.imgur.com/1Lcfr8O.png",
                 "screenshot": "https://i.imgur.com/xLr5d5D.jpg",
-                "button": {"image": "https://i.imgur.com/dBGk1ze.png", "text": "", "x": 0, "y": -400},
+                "button": {"image": "https://i.imgur.com/a06m4kz.png", "text": "", "x": 0, "y": -360},
                 "rate": 100
             }
         ]
