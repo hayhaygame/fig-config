@@ -1,5 +1,5 @@
 {
-    "version": 13,
+    "version": 14,
     "sets": {
         "default": [
 		{
@@ -89,7 +89,7 @@
 				"icon": "https://i.imgur.com/1Lcfr8O.png",
 				"screenshot": "https://i.imgur.com/s7yVnB4.jpg",
 				"banner": "https://i.imgur.com/kD9uAIv.jpg",
-				"button": {"image": "https://i.imgur.com/BHGON2E.png", "text": "", "x": 0, "y": -360},
+				"button": {"image": "https://i.imgur.com/BHGON2E.png", "text": "", "x": 0, "y": -390},
 				"rate": 10
 			}
         ],
@@ -105,7 +105,7 @@
                 "players": []
             }
         ],
-        "interstitial":  [2, 17, 22, 26, 30],
+        "interstitial":  [12, 17, 22, 26, 30],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
