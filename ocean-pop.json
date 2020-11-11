@@ -1,8 +1,29 @@
 {
-    "version": 19,
+    "version": 20,
     "sets": {
-        "default": [{"id":"347909499499999","name":"Jumping Girl","icon":"https://i.imgur.com/dPfRbzi.png","screenshot":"https://i.imgur.com/sY1Ri8n.jpg","button":{"image":"https://i.imgur.com/O1PdIpX.png","text":"","x":0,"y":-360},"rate":20},{"id":"1043181865796678","name":"Connect Animals","icon":"https://i.imgur.com/JClSMev.png","screenshot":"https://i.imgur.com/Lo31gPP.jpg","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":10},{"id":"3280083422063465","name":"Candy Kingdom","icon":"https://i.imgur.com/YbxKz77.png","screenshot":"https://i.imgur.com/MRopjrx.jpg","button":{"image":"https://i.imgur.com/7cIPKnk.png","text":"","x":0,"y":-360},"rate":10},{"id":"529117187574163","name":"Color Link","icon":"https://i.imgur.com/6h4gcVj.png","screenshot":"https://i.imgur.com/JdyLwSU.png","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":20},{"id":"190367968913670","name":"Pair Matching","icon":"https://i.imgur.com/WCnXBJz.png","screenshot":"https://i.imgur.com/Ix3oFZw.jpg","button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":0,"y":-350},"rate":40}],
-        "TEST": [{"id":"2492644277420233","name":"Egg Shoot","icon":"https://i.imgur.com/TrpwHTG.png","screenshot":"https://i.imgur.com/oiPwLMH.jpg","button":{"image":"https://i.imgur.com/DMkstbl.png","text":"","x":0,"y":-260},"rate":20},{"id":"347909499499999","name":"Jumping Girl","icon":"https://i.imgur.com/dPfRbzi.png","screenshot":"https://i.imgur.com/sY1Ri8n.jpg","button":{"image":"https://i.imgur.com/O1PdIpX.png","text":"","x":0,"y":-360},"rate":40},{"id":"1043181865796678","name":"Connect Animals","icon":"https://i.imgur.com/JClSMev.png","screenshot":"https://i.imgur.com/Lo31gPP.jpg","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":20},{"id":"3280083422063465","name":"Candy Kingdom","icon":"https://i.imgur.com/YbxKz77.png","screenshot":"https://i.imgur.com/MRopjrx.jpg","button":{"image":"https://i.imgur.com/7cIPKnk.png","text":"","x":0,"y":-360},"rate":10},{"id":"529117187574163","name":"Color Link","icon":"https://i.imgur.com/6h4gcVj.png","screenshot":"https://i.imgur.com/JdyLwSU.png","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":10}]
+        "default": [
+		{
+                "id": "2492644277420233",
+                "name": "Egg Shoot",
+                "icon": "https://i.imgur.com/IywfC4x.png",
+                "screenshot": "https://i.imgur.com/oiPwLMH.jpg",
+                "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "", "x": 0, "y": -120},
+                "rate": 20
+            },
+		{"id":"347909499499999","name":"Jumping Girl","icon":"https://i.imgur.com/dPfRbzi.png","screenshot":"https://i.imgur.com/sY1Ri8n.jpg","button":{"image":"https://i.imgur.com/O1PdIpX.png","text":"","x":0,"y":-360},"rate":20},
+		{"id":"1043181865796678","name":"Connect Animals","icon":"https://i.imgur.com/JClSMev.png","screenshot":"https://i.imgur.com/Lo31gPP.jpg","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":10},
+		{"id":"3280083422063465","name":"Candy Kingdom","icon":"https://i.imgur.com/YbxKz77.png","screenshot":"https://i.imgur.com/MRopjrx.jpg","button":{"image":"https://i.imgur.com/7cIPKnk.png","text":"","x":0,"y":-360},"rate":10},
+		{"id":"529117187574163","name":"Color Link","icon":"https://i.imgur.com/6h4gcVj.png","screenshot":"https://i.imgur.com/JdyLwSU.png","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":20},
+		{
+                "id": "634974810429385",
+                "name": "Ninja Hit",
+                "icon": "https://i.imgur.com/VCcxQuR.png",
+                "screenshot": "https://i.imgur.com/uLlC3rZ.png",
+                "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
+                "rate": 20
+            } 
+		]
+        
     },
     "rules": {
         "distributions": [
