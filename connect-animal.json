@@ -1,5 +1,5 @@
 {
-    "version": 36,
+    "version": 37,
     "sets": {
         "default": [
 			{
@@ -8,16 +8,26 @@
                 "icon": "https://i.imgur.com/1Lcfr8O.png",
                 "screenshot": "https://i.imgur.com/NAMnrwj.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
-                "rate": 50
+                "rate": 40
             },  	
-   	   {
+			{
                "id": "220801932630391",
                 "name": "OnetX Connect",
                 "icon": "https://i.imgur.com/dJvBPAO.jpg",
                  "screenshot": "https://i.imgur.com/oIujbvL.jpg",
                 "button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 500, "y": -150 },
-		"rate": 50
-            }
+				"rate": 30
+            },
+			{
+				"id":"190367968913670",
+				"name":"Pair Matching",	
+				"icon":"https://i.imgur.com/WCnXBJz.png",
+				"screenshot":"https://i.imgur.com/JYz3FYW.jpg",
+				"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":380,"y":-350},
+				"rate":30
+			}
+			
+			
         ],
         "TEST": [
 		
