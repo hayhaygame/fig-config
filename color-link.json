@@ -1,5 +1,5 @@
 {
-    "version": 7,
+    "version": 8,
     "sets": {
         "default": [            
         
@@ -9,7 +9,7 @@
 				"icon": "https://i.imgur.com/dJvBPAO.jpg",
 				"screenshot": "https://i.imgur.com/LKtatmr.jpg",
 				"button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 0, "y": -350 },
-				"rate": 50
+				"rate": 30
 			 },
 			 {
 				"id":"1043181865796678",
@@ -17,8 +17,16 @@
 				"icon":"https://i.imgur.com/JClSMev.png",
 				"screenshot":"https://i.imgur.com/Lo31gPP.jpg",
 				"button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},
-				"rate":50
-			}
+				"rate":40
+			} ,
+			 {
+				"id":"190367968913670",
+				"name":"Pair Matching",
+				"icon":"https://i.imgur.com/WCnXBJz.png",
+				"screenshot":"https://i.imgur.com/Ix3oFZw.jpg",
+				"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":0,"y":-350},
+				"rate":30
+			 }
         ],
         "TEST": [            
            {
@@ -35,7 +43,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["3047354248719903"]
+                "players": []
             },
             {
                 "set": "viset",
