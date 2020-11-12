@@ -1,13 +1,13 @@
 {
-    "version":17,
+    "version":18,
     "sets": {
         "default": [
 	  {
                 "id": "498866996936248",
                 "name": "Line 98",
                 "icon": "https://i.imgur.com/1Lcfr8O.png",
-                "screenshot": "https://i.imgur.com/NAMnrwj.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
+                "screenshot": "https://i.imgur.com/fjQpCLU.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 350, "y": -100},
                 "rate": 40
             }, 
 			{
