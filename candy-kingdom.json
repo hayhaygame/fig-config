@@ -1,5 +1,5 @@
 {
-    "version":15,
+    "version":16,
     "sets": {
         "default": [
 	  {
@@ -23,7 +23,7 @@
 		"name":"Pair Matching",	
 		"icon":"https://i.imgur.com/WCnXBJz.png",
 		"screenshot":"https://i.imgur.com/JYz3FYW.jpg",
-		"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":380,"y":-350},
+		"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":380,"y":-250},
 		"rate":30
 	     }
               
