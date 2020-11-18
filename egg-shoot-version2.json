@@ -1,5 +1,5 @@
 {
-    "version": 18,
+    "version": 19,
     "sets": {
         "default": [
 	 {
@@ -129,7 +129,7 @@
                 "screenshot": "https://i.imgur.com/MRopjrx.jpg",
 				"banner": "https://i.imgur.com/wkEDFTJ.jpg",
                 "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 0
+                "rate": 5
             },
 			{
                 "id": "529117187574163",
