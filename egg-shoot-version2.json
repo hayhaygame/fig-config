@@ -1,5 +1,5 @@
 {
-    "version": 17,
+    "version": 18,
     "sets": {
         "default": [
 	 {
@@ -174,7 +174,7 @@
 				 "screenshot": "https://i.imgur.com/htukGHO.jpg",
 				 "banner": "https://i.imgur.com/Ly8q1uS.jpg",
 				"button": {"image": "https://i.imgur.com/qnB6bdJ.png", "text": "", "x": 0, "y": -350 },
-				"rate": 5
+				"rate": 0
 			 },
 			{
 				"id": "498866996936248",
