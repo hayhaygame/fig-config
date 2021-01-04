@@ -1,5 +1,5 @@
 {
-    "version": 9,
+    "version": 10,
     "sets": {
         "default": [            
         
@@ -31,9 +31,10 @@
 				"id": "1564585660390128",
 				"name": "Block Puzzle",
 				"icon": "https://i.imgur.com/rf91NNd.jpg",
-				 "screenshot": "https://i.imgur.com/EqYjPqt.jpg",
-				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -150 },
-				"rate": 30
+				 "screenshot": "https://i.imgur.com/0ysX589.jpg",
+				 "banner": "https://i.imgur.com/OfvmgPO.jpg",
+				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -350 },
+				"rate": 10
 			}
         ],
         "TEST": [            
