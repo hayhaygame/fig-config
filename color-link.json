@@ -1,5 +1,5 @@
 {
-    "version": 8,
+    "version": 9,
     "sets": {
         "default": [            
         
@@ -17,7 +17,7 @@
 				"icon":"https://i.imgur.com/JClSMev.png",
 				"screenshot":"https://i.imgur.com/Lo31gPP.jpg",
 				"button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},
-				"rate":40
+				"rate":20
 			} ,
 			 {
 				"id":"190367968913670",
@@ -25,8 +25,16 @@
 				"icon":"https://i.imgur.com/WCnXBJz.png",
 				"screenshot":"https://i.imgur.com/Ix3oFZw.jpg",
 				"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":0,"y":-350},
-				"rate":30
-			 }
+				"rate":20
+			 }, 
+			{
+				"id": "1564585660390128",
+				"name": "Block Puzzle",
+				"icon": "https://i.imgur.com/rf91NNd.jpg",
+				 "screenshot": "https://i.imgur.com/EqYjPqt.jpg",
+				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -150 },
+				"rate": 30
+			}
         ],
         "TEST": [            
            {
