@@ -1,109 +1,8 @@
 {
-    "version": 23,
+    "version": 24,
     "sets": {
         "default": [
 	 {
-                "id": "227788504726017",
-                "name": "Shoot Bubbles",
-                "icon": "https://i.imgur.com/cmA3MUO.png",
-                "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
-				"banner": "https://i.imgur.com/IvVcRBz.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 50
-            }, 
-	       {
-                "id": "347909499499999",
-                "name": "Jumping Girl",
-                "icon": "https://i.imgur.com/dPfRbzi.png",
-                "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
-				"banner": "https://i.imgur.com/kg0JSzj.jpg",
-                "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 20
-            },
-            {
-                "id": "1043181865796678",
-                "name": "Connect Animals",
-                "icon": "https://i.imgur.com/JClSMev.png",
-                "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
-				"banner": "https://i.imgur.com/JlgyrMM.jpg",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 0
-            },
-			{
-                "id": "3280083422063465",
-                "name": "Candy Kingdom",
-                "icon": "https://i.imgur.com/YbxKz77.png",
-                "screenshot": "https://i.imgur.com/MRopjrx.jpg",
-				"banner": "https://i.imgur.com/wkEDFTJ.jpg",
-                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 5
-            },
-			{
-                "id": "529117187574163",
-                "name": "Color Link",
-                "icon": "https://i.imgur.com/Wek57Ep.png",
-                "screenshot": "https://i.imgur.com/JdyLwSU.png",
-				"banner": "https://i.imgur.com/LcNTTpN.jpg",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": -360 },
-                "rate": 5
-            },
-            {
-                "id": "634974810429385",
-                "name": "Ninja Hit",
-                "icon": "https://i.imgur.com/VCcxQuR.png",
-                "screenshot": "https://i.imgur.com/uLlC3rZ.png",
-				"banner": "https://i.imgur.com/AdT5wmp.jpg",
-                "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
-                "rate": 5
-            } ,
-			{	
-				"id": "1224362211248752",
-				"name": "Basket Hit",
-				"icon": "https://i.imgur.com/BiB1taV.png",
-				"screenshot": "https://i.imgur.com/MDGxAx7.jpg",
-				"banner": "https://i.imgur.com/asgj3qQ.jpg",
-				"button": {"image": "https://i.imgur.com/PJRgOHA.png", "text": "", "x": 0, "y": -350 },
-				"rate": 0
-			},
-			 {
-				"id":"190367968913670",
-				"name":"Pair Matching",
-				"icon":"https://i.imgur.com/WCnXBJz.png",
-				"screenshot":"https://i.imgur.com/Ix3oFZw.jpg",
-				"banner": "https://i.imgur.com/DJlueS9.jpg",
-				"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":0,"y":-350},
-				"rate":0
-			 },
-			 {
-				"id": "309115386788618",
-				"name": "Draw Battle",
-				"icon": "https://i.imgur.com/XWuntME.png",
-				 "screenshot": "https://i.imgur.com/htukGHO.jpg",
-				 "banner": "https://i.imgur.com/Ly8q1uS.jpg",
-				"button": {"image": "https://i.imgur.com/qnB6bdJ.png", "text": "", "x": 0, "y": -350 },
-				"rate": 0
-			 },
-			{
-				"id": "498866996936248",
-				"name": "Line 98",
-				"icon": "https://i.imgur.com/1Lcfr8O.png",
-				"screenshot": "https://i.imgur.com/s7yVnB4.jpg",
-				"banner": "https://i.imgur.com/kD9uAIv.jpg",
-				"button": {"image": "https://i.imgur.com/BHGON2E.png", "text": "", "x": 0, "y": -360},
-				"rate": 5
-			},
-			{
-				"id": "1564585660390128",
-				"name": "Block Puzzle",
-				"icon": "https://i.imgur.com/rf91NNd.jpg",
-				 "screenshot": "https://i.imgur.com/0ysX589.jpg",
-				 "banner": "https://i.imgur.com/OfvmgPO.jpg",
-				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -350 },
-				"rate": 10
-			}
-        ],
-        "TEST": [  
-		   {
                 "id": "227788504726017",
                 "name": "Shoot Bubbles",
                 "icon": "https://i.imgur.com/cmA3MUO.png",
@@ -193,6 +92,9 @@
 				"button": {"image": "https://i.imgur.com/BHGON2E.png", "text": "", "x": 0, "y": -360},
 				"rate": 5
 			}
+        ],
+        "TEST": [  
+		  
 			
           
         ]
