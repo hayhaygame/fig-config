@@ -1,5 +1,5 @@
 {
-    "version": 11,
+    "version": 12,
     "sets": {
         "default": [            
         
@@ -37,14 +37,23 @@
 				"rate": 30
 			}
         ],
-        "TEST": [            
+        "TEST": [   
+		{
+				"id": "1564585660390128",
+				"name": "Block Puzzle",
+				"icon": "https://i.imgur.com/rf91NNd.jpg",
+				 "screenshot": "https://i.imgur.com/0ysX589.jpg",
+				 "banner": "https://i.imgur.com/OfvmgPO.jpg",
+				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -350 },
+				"rate": 100
+			},
            {
                 "id": "498866996936248",
                 "name": "Line 98",
                 "icon": "https://i.imgur.com/1Lcfr8O.png",
                 "screenshot": "https://i.imgur.com/s7yVnB4.jpg",
                 "button": {"image": "https://i.imgur.com/BHGON2E.png", "text": "", "x": 0, "y": -360},
-                "rate": 100
+                "rate": 0
             }
         ]
     },
@@ -52,7 +61,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": []
+                "players": ["3047354248719903"]
             },
             {
                 "set": "viset",
