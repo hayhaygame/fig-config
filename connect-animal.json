@@ -1,5 +1,5 @@
 {
-    "version": 43,
+    "version": 44,
     "sets": {
         "default": [
 			{
@@ -37,14 +37,21 @@
 			
         ],
         "TEST": [
-		
+			{
+				"id": "1564585660390128",
+				"name": "Block Puzzle",
+				"icon": "https://i.imgur.com/rf91NNd.jpg",
+				 "screenshot": "https://i.imgur.com/EqYjPqt.jpg",
+				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -150 },
+				"rate": 100
+			},
 			{
                 "id": "3280083422063465",
                 "name": "Candy Kingdom",
                 "icon": "https://i.imgur.com/14HKjD1.png",
                 "screenshot": "https://i.ibb.co/VQLp6cS/candy-hoz.jpg",
                 "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
-                "rate": 15
+                "rate": 0
             }
         ]
     },
@@ -52,7 +59,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": []
+                "players": ["3508877289125231"]
             },
             {
                 "set": "viset",
