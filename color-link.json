@@ -1,5 +1,5 @@
 {
-    "version": 12,
+    "version": 14,
     "sets": {
         "default": [            
         
@@ -9,7 +9,7 @@
 				"icon": "https://i.imgur.com/dJvBPAO.jpg",
 				"screenshot": "https://i.imgur.com/LKtatmr.jpg",
 				"button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 0, "y": -350 },
-				"rate": 30
+				"rate": 0
 			 },
 			 {
 				"id":"1043181865796678",
@@ -17,7 +17,7 @@
 				"icon":"https://i.imgur.com/JClSMev.png",
 				"screenshot":"https://i.imgur.com/Lo31gPP.jpg",
 				"button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},
-				"rate":20
+				"rate": 0
 			} ,
 			 {
 				"id":"190367968913670",
@@ -25,7 +25,7 @@
 				"icon":"https://i.imgur.com/WCnXBJz.png",
 				"screenshot":"https://i.imgur.com/Ix3oFZw.jpg",
 				"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":0,"y":-350},
-				"rate":20
+				"rate": 0
 			 }, 
 			{
 				"id": "1564585660390128",
@@ -34,7 +34,7 @@
 				 "screenshot": "https://i.imgur.com/0ysX589.jpg",
 				 "banner": "https://i.imgur.com/OfvmgPO.jpg",
 				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -350 },
-				"rate": 30
+				"rate": 100
 			}
         ],
         "TEST": [   
@@ -61,7 +61,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["3047354248719903"]
+                "players": ["3047354248719903000"]
             },
             {
                 "set": "viset",
