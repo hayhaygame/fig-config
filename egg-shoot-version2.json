@@ -1,5 +1,5 @@
 {
-    "version": 26,
+    "version": 27,
     "sets": {
         "default": [
 			{
@@ -189,7 +189,7 @@
 				"name": "Witch Jump",
 				"icon": "https://i.imgur.com/HURqI0z.jpg",
 				"screenshot": "https://i.imgur.com/bwhkCDB.png",
-				"banner": "https://i.imgur.com/5Bb19xV.png",
+				"banner": "https://i.imgur.com/BJNEdl1.png",
 				"button": {"image": "https://i.imgur.com/FFSD7AT.png", "text": "", "x": 0, "y": -360},
 				"rate": 10
 			}
