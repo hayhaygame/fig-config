@@ -1,5 +1,5 @@
 {
-    "version": 28,
+    "version": 29,
     "sets": {
         "default": [
 		  {
@@ -18,7 +18,7 @@
                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
 				"banner": "https://i.imgur.com/kg0JSzj.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 10
+                "rate": 20
             },
             {
                 "id": "1043181865796678",
@@ -99,7 +99,7 @@
 				"screenshot": "https://i.imgur.com/bwhkCDB.png",
 				"banner": "https://i.imgur.com/BJNEdl1.png",
 				"button": {"image": "https://i.imgur.com/FFSD7AT.png", "text": "", "x": 0, "y": -360},
-				"rate": 10
+				"rate": 0
 			}
 			
         ],
