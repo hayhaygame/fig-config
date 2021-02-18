@@ -1,5 +1,5 @@
 {
-    "version": 45,
+    "version": 46,
     "sets": {
         "default": [
 			{
@@ -38,28 +38,51 @@
         ],
         "TEST": [
 			{
+                "id": "2492644277420233",
+                "name": "Egg Shoot",
+                "icon": "https://i.imgur.com/IywfC4x.png",
+                "screenshot": "https://i.imgur.com/JrIurgj.png",
+                "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "", "x": 0, "y": -120},
+                "rate": 95
+            },
+			{
+                "id": "498866996936248",
+                "name": "Line 98",
+                "icon": "https://i.imgur.com/1Lcfr8O.png",
+                "screenshot": "https://i.imgur.com/NAMnrwj.jpg",
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
+                "rate": 0
+            },  	
+			{
+               "id": "220801932630391",
+                "name": "OnetX Connect",
+                "icon": "https://i.imgur.com/dJvBPAO.jpg",
+                 "screenshot": "https://i.imgur.com/oIujbvL.jpg",
+                "button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 350, "y": -150 },
+				"rate": 0
+            },
+			{
+				"id":"190367968913670",
+				"name":"Pair Matching",	
+				"icon":"https://i.imgur.com/WCnXBJz.png",
+				"screenshot":"https://i.imgur.com/JYz3FYW.jpg",
+				"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":350,"y":-180},
+				"rate":0
+			},{
 				"id": "1564585660390128",
 				"name": "Block Puzzle",
 				"icon": "https://i.imgur.com/rf91NNd.jpg",
 				 "screenshot": "https://i.imgur.com/EqYjPqt.jpg",
 				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -150 },
-				"rate": 100
-			},
-			{
-                "id": "3280083422063465",
-                "name": "Candy Kingdom",
-                "icon": "https://i.imgur.com/14HKjD1.png",
-                "screenshot": "https://i.ibb.co/VQLp6cS/candy-hoz.jpg",
-                "button": {"image": "https://i.imgur.com/9h2ZqZV.png", "text": "Play Now", "x": 0, "y": -240},
-                "rate": 0
-            }
+				"rate": 5
+			}
         ]
     },
     "rules": {
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["3508877289125231000"]
+                "players": ["3508877289125231"]
             },
             {
                 "set": "viset",
