@@ -1,5 +1,5 @@
 {
-    "version": 34,
+    "version": 35,
     "sets": {
         "default": [
 		   {
@@ -18,7 +18,7 @@
                 "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
 				"banner": "https://i.imgur.com/kg0JSzj.jpg",
                 "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 10
+                "rate": 5
             },
 			{
                 "id": "3628445433936530",
@@ -109,6 +109,15 @@
 				"banner": "https://i.imgur.com/BJNEdl1.png",
 				"button": {"image": "https://i.imgur.com/FFSD7AT.png", "text": "", "x": 0, "y": -360},
 				"rate": 0
+			}, 
+			{
+				"id": "545660589189320",
+                "name": "Galaxy Attack",
+                "icon": "https://i.imgur.com/DXnuZpg.png",
+                "screenshot": "https://i.imgur.com/JQ7tX5M.jpg",
+				"banner": "https://i.imgur.com/T2R1Dpe.jpg",
+                "button": {"image": "https://i.imgur.com/DkxKEqG.png", "text": "Play Now", "x": 0, "y": -300},
+                "rate": 5
 			}
            		
   
