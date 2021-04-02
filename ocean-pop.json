@@ -1,5 +1,5 @@
 {
-    "version": 22,
+    "version": 23,
     "sets": {
         "default": [
 		{
@@ -8,7 +8,7 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/oiPwLMH.jpg",
                 "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "", "x": 0, "y": -120},
-                "rate": 50
+                "rate": 25
             },
 		{"id":"347909499499999","name":"Jumping Girl","icon":"https://i.imgur.com/dPfRbzi.png","screenshot":"https://i.imgur.com/sY1Ri8n.jpg","button":{"image":"https://i.imgur.com/O1PdIpX.png","text":"","x":0,"y":-360},"rate":5},
 		{"id":"1043181865796678","name":"Connect Animals","icon":"https://i.imgur.com/JClSMev.png","screenshot":"https://i.imgur.com/Lo31gPP.jpg","button":{"image":"https://i.imgur.com/8KrftHc.png","text":"","x":0,"y":-360},"rate":5},
@@ -29,7 +29,7 @@
 				"screenshot": "https://i.imgur.com/bwhkCDB.png",
 				"banner": "https://i.imgur.com/BJNEdl1.png",
 				"button": {"image": "https://i.imgur.com/FFSD7AT.png", "text": "", "x": 0, "y": -360},
-				"rate": 25
+				"rate": 50
 			}
 		]
         
