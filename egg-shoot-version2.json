@@ -8,7 +8,7 @@
                 "icon": "https://i.imgur.com/cmA3MUO.png",
                 "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
 				"banner": "https://i.imgur.com/IvVcRBz.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
+                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -300},
                 "rate": 40
             }, 
 	       {
