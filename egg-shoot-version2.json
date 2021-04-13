@@ -1,5 +1,5 @@
 {
-    "version": 37,
+    "version": 38,
     "sets": {
         "default": [
 		   {
@@ -44,7 +44,7 @@
                 "icon": "https://i.imgur.com/YbxKz77.png",
                 "screenshot": "https://i.imgur.com/MRopjrx.jpg",
 				"banner": "https://i.imgur.com/wkEDFTJ.jpg",
-                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": 0},
+                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": -300},
                 "rate": 5
             },
 			{
