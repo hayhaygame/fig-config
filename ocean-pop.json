@@ -1,5 +1,5 @@
 {
-    "version": 23,
+    "version": 24,
     "sets": {
         "default": [
 		{
@@ -29,7 +29,16 @@
 				"screenshot": "https://i.imgur.com/bwhkCDB.png",
 				"banner": "https://i.imgur.com/BJNEdl1.png",
 				"button": {"image": "https://i.imgur.com/FFSD7AT.png", "text": "", "x": 0, "y": -360},
-				"rate": 50
+				"rate": 25
+	   		},
+             {
+				"id": "134374228549110",
+                "name": "Number Bubble Shoot",
+                "icon": "https://i.imgur.com/xcf8TBs.png",
+                "screenshot": "https://i.imgur.com/ho59OBu.png",
+				"banner": "https://i.imgur.com/8Om8kCL.png",
+                "button": {"image": "https://i.imgur.com/kO7QKvD.png", "text": "Play Now", "x": 0, "y": -300},
+                "rate": 25
 			}
 		]
         
