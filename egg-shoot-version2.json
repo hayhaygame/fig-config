@@ -1,5 +1,5 @@
 {
-    "version": 39,
+    "version": 40,
     "sets": {
         "default": [
 		   {
@@ -45,7 +45,7 @@
                 "screenshot": "https://i.imgur.com/MRopjrx.jpg",
 				"banner": "https://i.imgur.com/wkEDFTJ.jpg",
                 "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": -300},
-                "rate": 5
+                "rate": 0
             },
 			{
                 "id": "529117187574163",
@@ -54,7 +54,7 @@
                 "screenshot": "https://i.imgur.com/JdyLwSU.png",
 				"banner": "https://i.imgur.com/LcNTTpN.jpg",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": -360 },
-                "rate": 5
+                "rate": 0
             },
             {
                 "id": "634974810429385",
@@ -63,7 +63,7 @@
                 "screenshot": "https://i.imgur.com/uLlC3rZ.png",
 				"banner": "https://i.imgur.com/AdT5wmp.jpg",
                 "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
-                "rate": 15
+                "rate": 5
             } ,
 			{	
 				"id": "1224362211248752",
@@ -81,7 +81,7 @@
 				"screenshot":"https://i.imgur.com/Ix3oFZw.jpg",
 				"banner": "https://i.imgur.com/DJlueS9.jpg",
 				"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":0,"y":-350},
-				"rate":10
+				"rate":5
 			 },
 			 {
 				"id": "309115386788618",
@@ -126,7 +126,7 @@
                 "screenshot": "https://i.imgur.com/ho59OBu.png",
 				"banner": "https://i.imgur.com/8Om8kCL.png",
                 "button": {"image": "https://i.imgur.com/kO7QKvD.png", "text": "Play Now", "x": 0, "y": -300},
-                "rate": 20
+                "rate": 45
 			}
            		
   
