@@ -1,5 +1,5 @@
 {
-    "version": 41,
+    "version": 42,
     "sets": {
         "default": [
 		   {
@@ -131,7 +131,7 @@
 			{
 				"id": "914791739354749",
                 "name": "Block Sudoku Puzzle",
-                "icon": "https://i.imgur.com/4zGmwGE.png",
+                "icon": "https://i.imgur.com/LnflR3S.png",
                 "screenshot": "https://i.imgur.com/qKIPZIs.jpg",
 				"banner": "https://i.imgur.com/Du74Jpt.jpg",
                 "button": {"image": "https://i.imgur.com/MV0UIpX.png", "text": "Play Now", "x": 0, "y": -300},
