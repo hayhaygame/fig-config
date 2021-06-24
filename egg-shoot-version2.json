@@ -1,7 +1,8 @@
 {
-    "version": 46,
+    "version": 47,
     "sets": {
-        "default": [
+        "default": [],
+		"old" : [
 		   {
                 "id": "227788504726017",
                 "name": "Shoot Bubbles",
@@ -151,7 +152,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["3901409146554981", "2439569439417466"]
+                "players": ["3901409146554981000", "2439569439417466000"]
             }
         ],
         "interstitial":  [12, 17, 22, 26, 30],
