@@ -1,5 +1,5 @@
 {
-    "version": 47,
+    "version": 48,
     "sets": {
         "default": [
 			{
@@ -8,7 +8,7 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/JrIurgj.png",
                 "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "", "x": 0, "y": -120},
-                "rate": 95
+                "rate": 0
             },
 			{
                 "id": "498866996936248",
@@ -39,7 +39,7 @@
 				"icon": "https://i.imgur.com/rf91NNd.jpg",
 				 "screenshot": "https://i.imgur.com/EqYjPqt.jpg",
 				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -150 },
-				"rate": 5
+				"rate": 0
 			}
 			
 			
