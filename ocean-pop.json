@@ -1,5 +1,5 @@
 {
-    "version": 42,
+    "version": 43,
     "sets": {
         "default": [
 		{
@@ -58,7 +58,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2168891876536785"]
+                "players": ["2168891876536785","3250623728386652"]
             },
             {
                 "set": "viset",
