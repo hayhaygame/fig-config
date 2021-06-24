@@ -1,7 +1,8 @@
 {
-    "version": 49,
+    "version": 50,
     "sets": {
-        "default": [
+        "default": [],
+	    "old": [
 			{
                 "id": "2492644277420233",
                 "name": "Egg Shoot",
