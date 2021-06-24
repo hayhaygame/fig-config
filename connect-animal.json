@@ -1,5 +1,5 @@
 {
-    "version": 48,
+    "version": 49,
     "sets": {
         "default": [
 			{
@@ -8,7 +8,7 @@
                 "icon": "https://i.imgur.com/IywfC4x.png",
                 "screenshot": "https://i.imgur.com/JrIurgj.png",
                 "button": {"image": "https://i.imgur.com/DMkstbl.png", "text": "", "x": 0, "y": -120},
-                "rate": 0
+                "rate": 30
             },
 			{
                 "id": "498866996936248",
@@ -16,7 +16,7 @@
                 "icon": "https://i.imgur.com/1Lcfr8O.png",
                 "screenshot": "https://i.imgur.com/NAMnrwj.jpg",
                 "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 380, "y": -100},
-                "rate": 0
+                "rate": 30
             },  	
 			{
                "id": "220801932630391",
@@ -24,7 +24,7 @@
                 "icon": "https://i.imgur.com/dJvBPAO.jpg",
                  "screenshot": "https://i.imgur.com/oIujbvL.jpg",
                 "button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 350, "y": -150 },
-				"rate": 0
+				"rate": 30
             },
 			{
 				"id":"190367968913670",
