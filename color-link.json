@@ -1,5 +1,5 @@
 {
-    "version": 18,
+    "version": 19,
     "sets": {
         "default": [
 			 {
@@ -68,7 +68,7 @@
                 "countries": []
             }
         ],
-        "interstitial": [-1],
+        "interstitial": [10],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
