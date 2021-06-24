@@ -1,5 +1,5 @@
 {
-    "version": 44,
+    "version": 45,
     "sets": {
         "default": [
 		   {
@@ -151,7 +151,7 @@
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["3901409146554981000"]
+                "players": ["3901409146554981"]
             }
         ],
         "interstitial":  [12, 17, 22, 26, 30],
