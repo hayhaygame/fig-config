@@ -1,8 +1,7 @@
 {
-    "version":25,
+    "version":26,
     "sets": {
-        "default": [],
-	    "old": [
+        "default": [
 	  {
                 "id": "498866996936248",
                 "name": "Line 98",
@@ -54,7 +53,7 @@
                 "players": ["3288967257891829000"]
             }
         ],
-        "interstitial": [2, 5, 7, 9],
+        "interstitial": [-1],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
