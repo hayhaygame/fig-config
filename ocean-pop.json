@@ -1,7 +1,7 @@
 {
-    "version": 40,
+    "version": 38,
     "sets": {
-	    "old": [ 
+        "default": [
 		{
                 "id": "2492644277420233",
                 "name": "Egg Shoot",
@@ -55,7 +55,7 @@
                 "countries": []
             }
         ],
-        "interstitial": [2, 7, 12, 16, 20],
+        "interstitial": [-1],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
