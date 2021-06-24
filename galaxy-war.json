@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 4,
     "sets": {
         "default": [
             {
@@ -16,7 +16,7 @@
                 "icon": "https://i.imgur.com/eDa10hU.png",
                 "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
                 "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 0
+                "rate": 10
             }
         ],
         "TEST":[
@@ -42,7 +42,7 @@
                 "countries": []
             }
         ],
-        "interstitial": [4, 8, 12],
+        "interstitial": [12],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
