@@ -1,9 +1,7 @@
 {
-    "version": 17,
+    "version": 18,
     "sets": {
-        "default": [ ],
-	    "old": [
-        
+        "default": [
 			 {
 				"id": "220801932630391",
 				"name": "OnetX Animals",
@@ -70,7 +68,7 @@
                 "countries": []
             }
         ],
-        "interstitial": [2,5],
+        "interstitial": [-1],
         "click-adjust": 0.5,
         "view-adjust": 0.1
     }
