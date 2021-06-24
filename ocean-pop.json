@@ -1,7 +1,6 @@
 {
-    "version": 37,
+    "version": 40,
     "sets": {
-        "default": [],
 	    "old": [ 
 		{
                 "id": "2492644277420233",
