@@ -1,5 +1,5 @@
 {
-    "version": 41,
+    "version": 42,
     "sets": {
         "default": [
 		{
@@ -40,14 +40,25 @@
 			"button": {"image": "https://i.imgur.com/kO7QKvD.png", "text": "Play Now", "x": 0, "y": -370},
 			"rate": 45
 		}
-		]
+		],
+	    "TEST" : [
+		 {
+			"id": "134374228549110",
+			"name": "Number Bubble Shoot",
+			"icon": "",
+			"screenshot": "https://i.imgur.com/ho59OBu.png",
+					"banner": "https://i.imgur.com/8Om8kCL.png",
+			"button": {"image": "https://i.imgur.com/kO7QKvD.png", "text": "Play Now", "x": 0, "y": -370},
+			"rate": 45
+		}   
+	    ]
         
     },
     "rules": {
         "distributions": [
             {
                 "set": "TEST",
-                "players": ["2168891876536785000"]
+                "players": ["2168891876536785"]
             },
             {
                 "set": "viset",
