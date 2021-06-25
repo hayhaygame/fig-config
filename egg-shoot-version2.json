@@ -1,5 +1,5 @@
 {
-   "version":51,
+   "version":53,
    "sets":{
       "default":[
          {
@@ -41,11 +41,25 @@
             },
             "rate":15
          },
+		  {
+            "id":"634974810429385",
+            "name":"Ninja Hit",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/vec_screen.png",
+			"banner":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/banner2.png",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/button.png",
+               "text":"",
+               "x":0,
+               "y":-350
+            },
+            "rate":5
+         },
          {
             "id":"134374228549110",
             "name":"Number Bubbles Shoot",
             "icon":"https://d2o6025edec3m1.cloudfront.net/numbershoot/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/numbershoot/vec_screen.jpg",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/numbershoot/vec_screen.png",
             "banner":"https://d2o6025edec3m1.cloudfront.net/numbershoot/banner.png",
             "button":{
                "image":"https://d2o6025edec3m1.cloudfront.net/numbershoot/button.png",
