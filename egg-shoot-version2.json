@@ -1,5 +1,5 @@
 {
-   "version":50,
+   "version":51,
    "sets":{
       "default":[
          {
@@ -46,7 +46,7 @@
             "name":"Number Bubbles Shoot",
             "icon":"https://d2o6025edec3m1.cloudfront.net/numbershoot/icon.png",
             "screenshot":"https://d2o6025edec3m1.cloudfront.net/numbershoot/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/numbershoot/banner.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/numbershoot/banner.png",
             "button":{
                "image":"https://d2o6025edec3m1.cloudfront.net/numbershoot/button.png",
                "x":0,
