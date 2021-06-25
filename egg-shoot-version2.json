@@ -1,161 +1,95 @@
 {
-    "version": 48,
-    "sets": {
-        "default": [
-		   {
-                "id": "227788504726017",
-                "name": "Shoot Bubbles",
-                "icon": "https://i.imgur.com/cmA3MUO.png",
-                "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
-				"banner": "https://i.imgur.com/IvVcRBz.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": -300},
-                "rate": 10
-            }, 
-	       {
-                "id": "347909499499999",
-                "name": "Jumping Girl",
-                "icon": "https://i.imgur.com/dPfRbzi.png",
-                "screenshot": "https://i.imgur.com/sY1Ri8n.jpg",
-				"banner": "https://i.imgur.com/kg0JSzj.jpg",
-                "button": {"image": "https://i.imgur.com/O1PdIpX.png", "text": "Play Now", "x": 0, "y": -320},
-                "rate": 0
+   "version":49,
+   "sets":{
+      "default":[
+         {
+            "id":"227788504726017",
+            "name":"Shoot Bubbles",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/icon200.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/splash-screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/Play-now.png",
+               "x":0,
+               "y":-300
             },
-			{
-                "id": "3628445433936530",
-                "name": "Remove One Part",
-                "icon": "https://i.imgur.com/CvzQRFF.png",
-                "screenshot": "https://i.imgur.com/OnNdpq3.jpg",
-				"banner": "https://i.imgur.com/YcZBSK9.jpg",
-                "button": {"image": "https://i.imgur.com/7sXays2.png", "text": "Play Now", "x": 0, "y": -330},
-                "rate": 0
+            "rate":10
+         },
+         {
+            "id":"190367968913670",
+            "name":"Pair Matching",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/pair-matching/icon.png",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/pair-matching/banner.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/pair-matching/vec_screen.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/pair-matching/button.png",
+               "x":0,
+               "y":-300
             },
-            {
-                "id": "1043181865796678",
-                "name": "Connect Animals",
-                "icon": "https://i.imgur.com/JClSMev.png",
-                "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
-				"banner": "https://i.imgur.com/JlgyrMM.jpg",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 0
+            "rate":5
+         },
+         {
+            "id":"545660589189320",
+            "name":"Galaxy Attack",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/galaxy/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/galaxy/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/galaxy/smallbanner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/galaxy/button.png",
+               "x":0,
+               "y":-300
             },
-			{
-                "id": "3280083422063465",
-                "name": "Candy Kingdom",
-                "icon": "https://i.imgur.com/YbxKz77.png",
-                "screenshot": "https://i.imgur.com/MRopjrx.jpg",
-				"banner": "https://i.imgur.com/wkEDFTJ.jpg",
-                "button": {"image": "https://i.imgur.com/7cIPKnk.png", "text": "Play Now", "x": 0, "y": -300},
-                "rate": 0
+            "rate":15
+         },
+         {
+            "id":"134374228549110",
+            "name":"Number Bubbles Shoot",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/numbershoot/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/numbershoot/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/numbershoot/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/numbershoot/button.png",
+               "x":0,
+               "y":-300
             },
-			{
-                "id": "529117187574163",
-                "name": "Color Link",
-                "icon": "https://i.imgur.com/Wek57Ep.png",
-                "screenshot": "https://i.imgur.com/JdyLwSU.png",
-				"banner": "https://i.imgur.com/LcNTTpN.jpg",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": -360 },
-                "rate": 0
+            "rate":45
+         },
+         {
+            "id":"914791739354749",
+            "name":"Block Sudoku Puzzle",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/block9/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/block9/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/block9/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/block9/button.png",
+               "x":0,
+               "y":-300
             },
-            {
-                "id": "634974810429385",
-                "name": "Ninja Hit",
-                "icon": "https://i.imgur.com/VCcxQuR.png",
-                "screenshot": "https://i.imgur.com/uLlC3rZ.png",
-				"banner": "https://i.imgur.com/AdT5wmp.jpg",
-                "button": {"image": "https://i.imgur.com/WIdRbW7.png", "text": "", "x": 0, "y": -350 },
-                "rate": 5
-            } ,
-			{	
-				"id": "1224362211248752",
-				"name": "Basket Hit",
-				"icon": "https://i.imgur.com/BiB1taV.png",
-				"screenshot": "https://i.imgur.com/MDGxAx7.jpg",
-				"banner": "https://i.imgur.com/asgj3qQ.jpg",
-				"button": {"image": "https://i.imgur.com/PJRgOHA.png", "text": "", "x": 0, "y": -350 },
-				"rate": 0
-			},
-			 {
-				"id":"190367968913670",
-				"name":"Pair Matching",
-				"icon":"https://i.imgur.com/WCnXBJz.png",
-				"screenshot":"https://i.imgur.com/Ix3oFZw.jpg",
-				"banner": "https://i.imgur.com/DJlueS9.jpg",
-				"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":0,"y":-350},
-				"rate":5
-			 },
-			 {
-				"id": "309115386788618",
-				"name": "Draw Battle",
-				"icon": "https://i.imgur.com/XWuntME.png",
-				 "screenshot": "https://i.imgur.com/htukGHO.jpg",
-				 "banner": "https://i.imgur.com/Ly8q1uS.jpg",
-				"button": {"image": "https://i.imgur.com/qnB6bdJ.png", "text": "", "x": 0, "y": -350 },
-				"rate": 0
-			 },
-			{
-				"id": "498866996936248",
-				"name": "Line 98",
-				"icon": "https://i.imgur.com/1Lcfr8O.png",
-				"screenshot": "https://i.imgur.com/s7yVnB4.jpg",
-				"banner": "https://i.imgur.com/kD9uAIv.jpg",
-				"button": {"image": "https://i.imgur.com/BHGON2E.png", "text": "", "x": 0, "y": -360},
-				"rate": 0
-			},
-			{
-				"id": "335736217697217",
-				"name": "Witch Jump",
-				"icon": "https://i.imgur.com/HURqI0z.jpg",
-				"screenshot": "https://i.imgur.com/bwhkCDB.png",
-				"banner": "https://i.imgur.com/BJNEdl1.png",
-				"button": {"image": "https://i.imgur.com/FFSD7AT.png", "text": "", "x": 0, "y": -360},
-				"rate": 0
-			}, 
-			{
-				"id": "545660589189320",
-                "name": "Galaxy Attack",
-                "icon": "https://i.imgur.com/DXnuZpg.png",
-                "screenshot": "https://i.imgur.com/JQ7tX5M.jpg",
-				"banner": "https://i.imgur.com/T2R1Dpe.jpg",
-                "button": {"image": "https://i.imgur.com/DkxKEqG.png", "text": "Play Now", "x": 0, "y": -300},
-                "rate": 15
-			}, 
-			{
-				"id": "134374228549110",
-                "name": "Number Bubble Shoot",
-                "icon": "https://i.imgur.com/xcf8TBs.png",
-                "screenshot": "https://i.imgur.com/ho59OBu.png",
-				"banner": "https://i.imgur.com/8Om8kCL.png",
-                "button": {"image": "https://i.imgur.com/kO7QKvD.png", "text": "Play Now", "x": 0, "y": -300},
-                "rate": 45
-			},
-			{
-				"id": "914791739354749",
-                "name": "Block Sudoku Puzzle",
-                "icon": "https://i.imgur.com/LnflR3S.png",
-                "screenshot": "https://i.imgur.com/qKIPZIs.jpg",
-				"banner": "https://i.imgur.com/Du74Jpt.jpg",
-                "button": {"image": "https://i.imgur.com/MV0UIpX.png", "text": "Play Now", "x": 0, "y": -300},
-                "rate": 20
-			}
-           		
-  
-			
-        ],
-        "TEST": [  
-		
-			
-          
-        ]
-    },
-    "rules": {
-        "distributions": [
-            {
-                "set": "default",
-                "players": ["3901409146554981000", "2439569439417466000"]
-            }
-        ],
-        "interstitial":  [12, 17, 22, 26, 30],
-        "click-adjust": 0.5,
-        "view-adjust": 0.1
-    }
+            "rate":20
+         }
+      ],
+      "TEST":[
+         
+      ]
+   },
+   "rules":{
+      "distributions":[
+         {
+            "set":"default",
+            "players":[
+               "3901409146554981",
+               "2439569439417466"
+            ]
+         }
+      ],
+      "interstitial":[
+         12,
+         17,
+         22,
+         26,
+         30
+      ],
+      "click-adjust":0.5,
+      "view-adjust":0.1
+   }
 }
