@@ -1,5 +1,5 @@
 {
-   "version":53,
+   "version":54,
    "sets":{
       "default":[
          {
@@ -96,13 +96,7 @@
             ]
          }
       ],
-      "interstitial":[
-         2,
-         7,
-         12,
-         16,
-         20
-      ],
+      "interstitial":[12, 17, 22, 26, 30],
       "click-adjust":0.5,
       "view-adjust":0.1
    }
