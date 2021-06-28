@@ -1,33 +1,26 @@
 {
-    "version": 4,
+    "version": 5,
     "sets": {
         "default": [
             {
                 "id": "227788504726017",
                 "name": "Ocean Pop",
-                "icon": "https://i.imgur.com/YgYc6lu.png",
-                "screenshot": "https://i.imgur.com/6XQiVCi.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 10
+               "icon": "https://d2o6025edec3m1.cloudfront.net/bubbleshoot/icon200.png",
+                "screenshot": "https://d2o6025edec3m1.cloudfront.net/bubbleshoot/splash-screen.jpg",
+                "button": {"image": "https://d2o6025edec3m1.cloudfront.net/bubbleshoot/Play-now.png", "text": "Play Now", "x": 0, "y": -300},
+                "rate": 50
             },
             {
                 "id": "1043181865796678",
                 "name": "Connect Animals",
-                "icon": "https://i.imgur.com/eDa10hU.png",
-                "screenshot": "https://i.imgur.com/Lo31gPP.jpg",
-                "button": {"image": "https://i.imgur.com/8KrftHc.png", "text": "Play Now", "x": 0, "y": 0},
-                "rate": 10
+                "icon": "https://d2o6025edec3m1.cloudfront.net/onet-conectAnimal/icon.png",
+                "screenshot": "https://d2o6025edec3m1.cloudfront.net/onet-conectAnimal/vec_screen.png",
+                "button": {"image": "https://d2o6025edec3m1.cloudfront.net/onet-conectAnimal/button.png", "text": "Play Now", "x": 0, "y": 0},
+                "rate": 50
             }
         ],
         "TEST":[
-            {
-                "id": "545660589189320",
-                "name": "Galaxy Attack",
-                "icon": "https://i.imgur.com/DXnuZpg.png",
-                "screenshot": "https://i.imgur.com/dSA00Y2.jpg",
-                "button": {"image": "https://i.imgur.com/pblY2HV.png", "text": "Play Now", "x": 0, "y": -200},
-                "rate": 60
-            }
+          
         ]
     },
     "rules": {
