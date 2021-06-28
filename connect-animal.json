@@ -1,5 +1,5 @@
 {
-    "version": 53,
+    "version": 54,
     "sets": {
         "default": [
 			{
@@ -8,7 +8,7 @@
                 "icon": "https://d2o6025edec3m1.cloudfront.net/image/icon200square.png",
                 "screenshot": "https://d2o6025edec3m1.cloudfront.net/image/screenhoz.jpg",
                 "button": {"image": "https://d2o6025edec3m1.cloudfront.net/image/Play-now.png", "text": "", "x": 0, "y": -120},
-                "rate": 30
+                "rate": 95
             },
 			{
                 "id": "498866996936248",
@@ -16,7 +16,7 @@
                 "icon": "https://d2o6025edec3m1.cloudfront.net/line98/icon.png",
                 "screenshot": "https://d2o6025edec3m1.cloudfront.net/line98/hoz_screen.png",
                 "button": {"image": "https://d2o6025edec3m1.cloudfront.net/line98/button.png", "text": "", "x": 380, "y": -100},
-                "rate": 30
+                "rate": 0
             },  	
 			{
                "id": "220801932630391",
@@ -24,7 +24,7 @@
                 "icon": "https://d2o6025edec3m1.cloudfront.net/onetanimal/icon.png",
                  "screenshot": "https://d2o6025edec3m1.cloudfront.net/onetanimal/hoz_screen.png",
                 "button": {"image": "https://d2o6025edec3m1.cloudfront.net/onetanimal/button.png", "text": "", "x": 350, "y": -150 },
-				"rate": 30
+				"rate": 0
             },
 			{
 				"id":"190367968913670",
@@ -33,6 +33,14 @@
 				"screenshot":"https://d2o6025edec3m1.cloudfront.net/pair-matching/hoz_screen.jpg",
 				"button":{"image":"https://d2o6025edec3m1.cloudfront.net/pair-matching/button.png","text":"","x":350,"y":-180},
 				"rate":0
+			},
+			{
+				"id": "1564585660390128",
+				"name": "Block Puzzle",
+				"icon":"https://d2o6025edec3m1.cloudfront.net/blockpuzzle/icon.jpg",
+				"screenshot":"https://d2o6025edec3m1.cloudfront.net/blockpuzzle/hoz_screen.jpg",
+				"button":{"image":"https://d2o6025edec3m1.cloudfront.net/blockpuzzle/button.png", "text": "", "x": 0, "y": -150 },
+				"rate": 5
 			}
 			
 			
