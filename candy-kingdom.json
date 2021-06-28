@@ -1,49 +1,26 @@
 {
-    "version":27,
+    "version":28,
     "sets": {
         "default": [
-	  {
-                "id": "498866996936248",
-                "name": "Line 98",
-                "icon": "https://i.imgur.com/1Lcfr8O.png",
-                "screenshot": "https://i.imgur.com/fjQpCLU.jpg",
-                "button": {"image": "https://i.imgur.com/4RLkhSq.png", "text": "", "x": 350, "y": -100},
-                "rate": 50
-            }, 
+	 
 			{
-               "id": "220801932630391",
-                "name": "OnetX Connect",
-                "icon": "https://i.imgur.com/dJvBPAO.jpg",
-                 "screenshot": "https://i.imgur.com/oIujbvL.jpg",
-                "button": {"image": "https://i.imgur.com/9OMHvPp.png", "text": "", "x": 350, "y": -150 },
-		"rate": 50
-            } ,
-	    {
-		"id":"190367968913670",
-		"name":"Pair Matching",	
-		"icon":"https://i.imgur.com/WCnXBJz.png",
-		"screenshot":"https://i.imgur.com/JYz3FYW.jpg",
-		"button":{"image":"https://i.imgur.com/iLqkACs.png","text":"","x":350,"y":-150},
-		"rate":0
-	     }, {
-				"id": "1564585660390128",
-				"name": "Block Puzzle",
-				"icon": "https://i.imgur.com/rf91NNd.jpg",
-				 "screenshot": "https://i.imgur.com/EqYjPqt.jpg",
-				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -150 },
-				"rate": 0
-			}
-              
+			"id":"190367968913670",
+			"name":"Pair Matching",	
+			"icon": "https://d2o6025edec3m1.cloudfront.net/pair-matching/icon.png",
+			"screenshot":"https://d2o6025edec3m1.cloudfront.net/pair-matching/hoz_screen.jpg",
+			"button":{"image":"https://d2o6025edec3m1.cloudfront.net/pair-matching/button.png","text":"","x":350,"y":-150},
+			"rate":100
+			 }
         ],
         "TEST": [
-		{
-				"id": "1564585660390128",
-				"name": "Block Puzzle",
-				"icon": "https://i.imgur.com/rf91NNd.jpg",
-				 "screenshot": "https://i.imgur.com/EqYjPqt.jpg",
-				"button": {"image": "https://i.imgur.com/tJNKvzh.png", "text": "", "x": 0, "y": -150 },
-				"rate": 100
-			}
+			 {
+			"id":"190367968913670",
+			"name":"Pair Matching",	
+			"icon": "https://d2o6025edec3m1.cloudfront.net/pair-matching/icon.png",
+			"screenshot":"https://d2o6025edec3m1.cloudfront.net/pair-matching/hoz_screen.jpg",
+			"button":{"image":"https://d2o6025edec3m1.cloudfront.net/pair-matching/button.png","text":"","x":350,"y":-150},
+			"rate":100
+			 }
         ]
     },
     "rules": {
