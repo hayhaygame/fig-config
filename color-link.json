@@ -1,5 +1,5 @@
 {
-    "version": 20,
+    "version": 21,
     "sets": {
         "default": [
 			
@@ -7,7 +7,7 @@
 				"id": "1564585660390128",
 				"name": "Block Puzzle",
 				"icon":"https://d2o6025edec3m1.cloudfront.net/blockpuzzle/icon.jpg",
-				"screenshot":"https://d2o6025edec3m1.cloudfront.net/blockpuzzle/hoz_screen.jpg",
+				"screenshot":"https://d2o6025edec3m1.cloudfront.net/blockpuzzle/vec_screen.jpg",
 				 "banner": "https://d2o6025edec3m1.cloudfront.net/blockpuzzle/banner.jpg",
 				"button": {"image": "https://d2o6025edec3m1.cloudfront.net/blockpuzzle/button.png", "text": "", "x": 0, "y": -350 },
 				"rate": 100
