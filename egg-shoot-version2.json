@@ -1,5 +1,5 @@
 {
-   "version":54,
+   "version":55,
    "sets":{
       "default":[
          {
@@ -39,7 +39,7 @@
                "x":0,
                "y":-300
             },
-            "rate":15
+            "rate":0
          },
 		  {
             "id":"634974810429385",
@@ -79,7 +79,34 @@
                "x":0,
                "y":-300
             },
-            "rate":20
+            "rate":10
+         },
+		 {
+            "id":"3280083422063465",
+            "name":"Candy Kingdom",
+            "icon":"https://i.ibb.co/wQK65Rg/candy-icon.png",
+            "screenshot":"https://i.ibb.co/p0ghsFT/vec-screen.jpg",
+            "banner":"https://i.ibb.co/Y7GBjyx/banner.jpg",
+            "button":{
+               "image":"https://i.ibb.co/LgQR8Xd/playnowbutton.png",
+               "x":0,
+               "y":-300
+            },
+            "rate":10
+         }
+		 ,
+		 {
+            "id":"4036772439678656",
+            "name":"Draw One Part",
+            "icon":"https://i.ibb.co/JrVd6qn/icon.png",
+            "screenshot":"https://i.ibb.co/8XSfhK1/vec-screen.png",
+            "banner":"https://i.ibb.co/N6RZsSY/banner.jpg",
+            "button":{
+               "image":"https://i.ibb.co/LgQR8Xd/playnowbutton.png",
+               "x":0,
+               "y":-300
+            },
+            "rate":15
          }
       ],
       "TEST":[
@@ -89,7 +116,7 @@
    "rules":{
       "distributions":[
          {
-            "set":"default",
+            "set":"TEST",
             "players":[
                "3901409146554981",
                "2439569439417466"
