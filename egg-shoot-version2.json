@@ -1,5 +1,5 @@
 {
-   "version":56,
+   "version":57,
    "sets":{
       "default":[
          {
@@ -84,11 +84,11 @@
 		 {
             "id":"3280083422063465",
             "name":"Candy Kingdom",
-            "icon":"https://i.ibb.co/wQK65Rg/candy-icon.png",
-            "screenshot":"https://i.ibb.co/p0ghsFT/vec-screen.jpg",
-            "banner":"https://i.ibb.co/Y7GBjyx/banner.jpg",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/banner.jpg",
             "button":{
-               "image":"https://i.ibb.co/LgQR8Xd/playnowbutton.png",
+               "image":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/button.png",
                "x":0,
                "y":-300
             },
@@ -98,11 +98,11 @@
 		 {
             "id":"4036772439678656",
             "name":"Draw One Part",
-            "icon":"https://i.ibb.co/JrVd6qn/icon.png",
-            "screenshot":"https://i.ibb.co/8XSfhK1/vec-screen.png",
-            "banner":"https://i.ibb.co/N6RZsSY/banner.jpg",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/draw-one/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/draw-one/vec_screen.png",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/draw-one/banner.jpg",
             "button":{
-               "image":"https://i.ibb.co/LgQR8Xd/playnowbutton.png",
+               "image":"https://d2o6025edec3m1.cloudfront.net/draw-one/button.png",
                "x":0,
                "y":-300
             },
