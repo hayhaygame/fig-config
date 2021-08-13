@@ -1,115 +1,8 @@
 {
-   "version":60,
+   "version":61,
    "sets":{
+     
       "default":[
-         {
-            "id":"227788504726017",
-            "name":"Shoot Bubbles",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/icon200.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/splash-screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/Play-now.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":10
-         },
-         {
-            "id":"190367968913670",
-            "name":"Pair Matching",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/pair-matching/icon.png",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/pair-matching/banner.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/pair-matching/vec_screen.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/pair-matching/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":5
-         },
-         {
-            "id":"545660589189320",
-            "name":"Galaxy Attack",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/galaxy/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/galaxy/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/galaxy/smallbanner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/galaxy/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":0
-         },
-		  {
-            "id":"634974810429385",
-            "name":"Ninja Hit",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/vec_screen.png",
-			"banner":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/banner2.png",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/button.png",
-               "text":"",
-               "x":0,
-               "y":-350
-            },
-            "rate":5
-         },
-         {
-            "id":"134374228549110",
-            "name":"Number Bubbles Shoot",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/numbershoot/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/numbershoot/vec_screen.png",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/numbershoot/banner.png",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/numbershoot/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":45
-         },
-         {
-            "id":"914791739354749",
-            "name":"Block Sudoku Puzzle",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/block9/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/block9/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/block9/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/block9/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":10
-         },
-		 {
-            "id":"3280083422063465",
-            "name":"Candy Kingdom",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":10
-         }
-		 ,
-		 {
-            "id":"4036772439678656",
-            "name":"Draw One Part",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/draw-one/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/draw-one/vec_screen.png",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/draw-one/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/draw-one/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":15
-         }
-      ],
-      "TEST":[
           {
             "id":"227788504726017",
             "name":"Shoot Bubbles",
@@ -229,6 +122,9 @@
             },
             "rate":45
          }
+      ],
+	   "TEST":[
+        
       ]
    },
    "rules":{
@@ -236,7 +132,8 @@
          {
             "set":"TEST",
             "players":[
-               "3901409146554981", "3008733855901921", "2439569439417466"
+               "3901409146554981000",
+               "2439569439417466000"
             ]
          }
       ],
