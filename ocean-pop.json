@@ -1,5 +1,5 @@
 {
-   "version":47,
+   "version":48,
    "sets":{
       "default":[
                 {
@@ -123,6 +123,126 @@
          }
       ],
       "TEST":[
+	  
+	                 {
+            "id":"2492644277420233",
+            "name":"Egg Shoot",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/image/icon200square.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/image/screenshoot.png",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/image/Play-now.png",
+               "text":"",
+               "x":0,
+               "y":-120
+            },
+            "rate":25
+         },
+         {
+            "id":"347909499499999",
+            "name":"Jumping Girl",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/jumping-girl/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/jumping-girl/vec_screen.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/jumping-girl/button.png",
+               "text":"",
+               "x":0,
+               "y":-360
+            },
+            "rate":5
+         },
+         {
+            "id":"1043181865796678",
+            "name":"Connect Animals",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/onet-conectAnimal/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/onet-conectAnimal/vec_screen.png",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/onet-conectAnimal/button.png",
+               "text":"",
+               "x":0,
+               "y":-360
+            },
+            "rate":0
+         },
+         {
+            "id":"3280083422063465",
+            "name":"Candy Kingdom",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/vec_screen.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/button.png",
+               "text":"",
+               "x":0,
+               "y":-360
+            },
+            "rate":0
+         },
+         {
+            "id":"529117187574163",
+            "name":"Color Link",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/color-link/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/color-link/vec_screen.png",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/color-link/button.png",
+               "text":"",
+               "x":0,
+               "y":-360
+            },
+            "rate":0
+         },
+         {
+            "id":"634974810429385",
+            "name":"Ninja Hit",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/vec_screen.png",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/button.png",
+               "text":"",
+               "x":0,
+               "y":-350
+            },
+            "rate":5
+         },
+         {
+            "id":"335736217697217",
+            "name":"Witch Jump",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/witch-jump/icon.jpg",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/witch-jump/vec_screen.png",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/witch-jump/banner.png",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/witch-jump/button.png",
+               "text":"",
+               "x":0,
+               "y":-360
+            },
+            "rate":0
+         },
+         {
+            "id":"134374228549110",
+            "name":"Number Bubble Shoot",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/numbershoot/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/numbershoot/vec_screen.png",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/numbershoot/banner.png",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/numbershoot/button.png",
+               "text":"Play Now",
+               "x":0,
+               "y":-370
+            },
+            "rate":20
+         },
+		  {
+            "id":"357895292427076",
+            "name":"Bubble Legend",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/BubbleLegend/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/BubbleLegend/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/BubbleLegend/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/BubbleLegend/button.png",
+               "x":0,
+               "y":-300
+            },
+            "rate":45
+         }
           
       ]
    },
@@ -131,8 +251,8 @@
          {
             "set":"TEST",
             "players":[
-               "2168891876536785000",
-               "3250623728386652000"
+               "2168891876536785",
+               "3250623728386652"
             ]
          },
          {
