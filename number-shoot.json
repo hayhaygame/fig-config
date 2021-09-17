@@ -1,0 +1,36 @@
+{
+    "version": 0,
+    "sets": {
+        "default": [
+			
+			{
+				"id": "1564585660390128",
+				"name": "Block Puzzle",
+				"icon":"https://d2o6025edec3m1.cloudfront.net/blockpuzzle/icon.jpg",
+				"screenshot":"https://d2o6025edec3m1.cloudfront.net/blockpuzzle/vec_screen.jpg",
+				 "banner": "https://d2o6025edec3m1.cloudfront.net/blockpuzzle/banner.jpg",
+				"button": {"image": "https://d2o6025edec3m1.cloudfront.net/blockpuzzle/button.png", "text": "", "x": 0, "y": -350 },
+				"rate": 100
+			}
+        ],
+        "TEST": [   
+		
+        ]
+    },
+    "rules": {
+        "distributions": [
+            {
+                "set": "TEST",
+                "players": ["3047354248719903000"]
+            },
+            {
+                "set": "viset",
+                "players": [],
+                "countries": []
+            }
+        ],
+        "interstitial": [10],
+        "click-adjust": 0.5,
+        "view-adjust": 0.1
+    }
+}
