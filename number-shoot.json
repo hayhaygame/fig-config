@@ -7,5 +7,13 @@
             "name": "Block Puzzle",
             "icon":"https://d2o6025edec3m1.cloudfront.net/blockpuzzle/icon.jpg"
         }
+    ],
+    "players":["4110522472320789"],
+    "test": [
+        {
+            "id": "1564585660390128",
+            "name": "Test Puzzle",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/blockpuzzle/icon.jpg"
+        }
     ]
 }
