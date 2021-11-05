@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "enable": true,
     "list": [
         {
@@ -8,7 +8,7 @@
             "icon":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/icon.png"
         }
     ],
-    "players":["4110522472320789","4202290326473153"],
+    "players":["134374228549110"],
     "test": [
         {
             "id": "439146557102447",
