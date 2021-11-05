@@ -1,10 +1,10 @@
 {
-   "version":54,
+   "version":55,
    "sets":{
      
       "TEST":[
 	  
-	                 {
+	                       {
             "id":"2492644277420233",
             "name":"Egg Shoot",
             "icon":"https://d2o6025edec3m1.cloudfront.net/image/icon200square.png",
@@ -15,7 +15,59 @@
                "x":0,
                "y":-120
             },
-            "rate":100
+            "rate":20
+         },
+		  {
+            "id":"1206934729765552",
+            "name":"Paper Fold",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/PaperFold/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/PaperFold/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/PaperFold/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/PaperFold/button.png",
+               "x":0,
+               "y":-300
+            },
+            "rate":0
+         }, 
+		 {
+            "id":"472291094090488",
+            "name":"Kitty Pop",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/KittyPop/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/KittyPop/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/KittyPop/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/KittyPop/button.png",
+               "x":0,
+               "y":-300
+            },
+            "rate":0
+         },
+		 {
+            "id":"439146557102447",
+            "name":"Dynomite X2",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/button.png",
+               "x":0,
+               "y":-300
+            },
+            "rate":10
+         },
+		 	{
+            "id":"562551901626528",
+            "name":"Bouncing Balls",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/icon.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/button.png",
+               "x":0,
+               "y":-300
+            },
+            "rate":30
          }
           
       ],
@@ -80,8 +132,8 @@
          {
             "set":"TEST",
             "players":[
-               "21688918765367850","43836224383173350",
-               "32506237283866520"
+               "2168891876536785","4383622438317335",
+               "3250623728386652"
             ]
          },
          {
