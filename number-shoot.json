@@ -1,5 +1,5 @@
 {
-    "version": 13,
+    "version": 14,
     "enable": true,
     "list": [
          {
@@ -16,15 +16,6 @@
     ],
     "players":["134374228549110", "10221995797704278", "2512790712108868","4202290326473153", "3822002354514375"],
     "test": [
-        {
-            "id": "439146557102447",
-            "name": "Dynomite X2",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/icon.png"
-        },
-        {
-            "id": "562551901626528",
-            "name": "Bouncing Balls",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/icon.png"
-        }
+        
     ]
 }
