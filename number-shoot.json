@@ -1,12 +1,7 @@
 {
-    "version": 7,
+    "version": 8,
     "enable": true,
     "list": [
-         {
-            "id": "562551901626528",
-            "name": "Bouncing Balls",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/icon.png"
-        },
         {
             "id": "439146557102447",
             "name": "Dynomite X2",
@@ -14,7 +9,7 @@
         }
        
     ],
-    "players":["134374228549110"],
+    "players":["13437422854911", "10221995797704278"],
     "test": [
         {
             "id": "439146557102447",
