@@ -1,5 +1,5 @@
 {
-   "version":58,
+   "version":59,
    "sets":{
      
       "TEST":[
@@ -131,7 +131,7 @@
       "distributions":[
          {
             "set":"TEST",
-            "players":["227788504726017"]
+            "players":["227788504726017","10221995736142739"]
          },
          {
             "set":"viset",
