@@ -1,5 +1,5 @@
 {
-   "version":78,
+   "version":79,
    "sets":{
 	   "default":[
              {
@@ -247,11 +247,12 @@
          {
             "set":"TEST",
             "players":[
-               "4140796992625461", "1812989845423655"
-            ]
+               "41407969926254610", "18129898454236550"
+            ], 
+	    "countries": ["en"]
          }
       ],
-      "interstitial":[2, 17, 22, 26, 30],
+      "interstitial":[12, 17, 22, 26, 30],
       "click-adjust":0.5,
       "view-adjust":0.1
    }
