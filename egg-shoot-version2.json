@@ -1,7 +1,7 @@
 {
-   "version":80,
+   "version":81,
    "sets":{
-	   "default":[
+	   "TEST":[
              {
             "id":"227788504726017",
             "name":"Shoot Bubbles",
@@ -174,7 +174,7 @@
             "rate":30
          }
       ],
-	   "TEST":[
+	   "default":[
    {
             "id":"227788504726017",
             "name":"Shoot Bubbles",
@@ -379,12 +379,12 @@
          {
             "set":"TEST",
             "players":[
-               "4140796992625461", "1812989845423655"
+               "41407969926254610", "18129898454236550"
             ]
 	    
          }
       ],
-      "interstitial":[2, 7, 22, 26, 30],
+      "interstitial":[12, 17, 22, 26, 30],
       "click-adjust":0.5,
       "view-adjust":0.1
    }
