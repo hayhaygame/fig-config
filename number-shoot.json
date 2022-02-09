@@ -1,8 +1,8 @@
 {
-    "version": 16,
+    "version": 17,
     "enable": true,
     "list": [
-         {
+          {
             "id": "439146557102447",
             "name": "Dynomite X2",
             "icon":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/icon.png"
@@ -11,31 +11,22 @@
             "id": "562551901626528",
             "name": "Bouncing Balls",
             "icon":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/icon.png"
+        },
+         {
+            "id": "391164092398938",
+            "name": "Solitaire Streak",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/Solitaire/icon.png"
+        },
+        {
+            "id": "391164092398938",
+            "name": "Solitaire Streak",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/Solitaire/icon.png"
         }
        
     ],
-    "players":["4202290326473153", "3822002354514375"],
+    "players":["42022903264731530", "38220023545143750"],
     "test": [
-         {
-            "id": "439146557102447",
-            "name": "Dynomite X2",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/icon.png"
-        },
-        {
-            "id": "562551901626528",
-            "name": "Bouncing Balls",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/icon.png"
-        },
-         {
-            "id": "391164092398938",
-            "name": "Solitaire Streak",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/Solitaire/icon.png"
-        },
-        {
-            "id": "391164092398938",
-            "name": "Solitaire Streak",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/Solitaire/icon.png"
-        }
+         
         
     ]
 }
