@@ -1,7 +1,7 @@
 {
-   "version":83,
+   "version":84,
    "sets":{
-	   "TEST":[
+	   "default":[
                 {
             "id":"227788504726017",
             "name":"Shoot Bubbles",
@@ -71,204 +71,8 @@
             "rate":20
          }
       ],
-	   "default":[
-   {
-            "id":"227788504726017",
-            "name":"Shoot Bubbles",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/icon200.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/splash-screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/Play-now.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":15
-         },
-         {
-            "id":"190367968913670",
-            "name":"Pair Matching",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/pair-matching/icon.png",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/pair-matching/banner.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/pair-matching/vec_screen.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/pair-matching/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":0
-         },
-         {
-            "id":"545660589189320",
-            "name":"Galaxy Attack",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/galaxy/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/galaxy/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/galaxy/smallbanner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/galaxy/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":0
-         },
-		  {
-            "id":"634974810429385",
-            "name":"Ninja Hit",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/vec_screen.png",
-			"banner":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/banner2.png",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/ninja-hit/button.png",
-               "text":"",
-               "x":0,
-               "y":-350
-            },
-            "rate":0
-         },
-         {
-            "id":"134374228549110",
-            "name":"Number Bubbles Shoot",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/numbershoot/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/numbershoot/vec_screen.png",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/numbershoot/banner.png",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/numbershoot/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":25
-         },
-         {
-            "id":"914791739354749",
-            "name":"Block Sudoku Puzzle",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/block9/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/block9/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/block9/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/block9/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":0
-         },
-		 {
-            "id":"3280083422063465",
-            "name":"Candy Kingdom",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/candy-kingdom/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":0
-         }
-		 ,
-		 {
-            "id":"4036772439678656",
-            "name":"Draw One Part",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/draw-one/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/draw-one/vec_screen.png",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/draw-one/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/draw-one/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":0
-         },
-		 {
-            "id":"357895292427076",
-            "name":"Bubble Legend",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/BubbleLegend/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/BubbleLegend/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/BubbleLegend/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/BubbleLegend/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":0
-         },
-		 {
-            "id":"1206934729765552",
-            "name":"Paper Fold",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/PaperFold/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/PaperFold/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/PaperFold/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/PaperFold/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":0
-         }, 
-		 {
-            "id":"472291094090488",
-            "name":"Kitty Pop",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/KittyPop/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/KittyPop/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/KittyPop/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/KittyPop/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":0
-         },
-		 {
-            "id":"439146557102447",
-            "name":"Dynomite X2",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":10
-         },
-		{
-            "id":"562551901626528",
-            "name":"Bouncing Balls",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":30
-         },
-		 {
-            "id":"376121947435129",
-            "name":"Word Connect",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/Wow/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/Wow/vec_screen.png",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/Wow/banner.png",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/Wow/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":10
-         },
-		 {
-            "id":"391164092398938",
-            "name":"Solitaire Streak",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/Solitaire/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/Solitaire/vec_screen.png",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/Solitaire/banner.png",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/Solitaire/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":10
-         }
+	   "TEST":[
+   
       ]
    },
    "rules":{
@@ -276,12 +80,12 @@
          {
             "set":"TEST",
             "players":[
-               "4140796992625461", "1812989845423655"
+               "41407969926254610", "18129898454236550"
             ]
 	    
          }
       ],
-      "interstitial":[2, 4, 22, 26, 30],
+      "interstitial":[12, 17, 22, 26, 30],
       "click-adjust":0.5,
       "view-adjust":0.1
    }
