@@ -1,8 +1,8 @@
 {
-    "version": 18,
+    "version": 19,
     "enable": true,
     "list": [
-          {
+           {
             "id": "439146557102447",
             "name": "Dynomite X2",
             "icon":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/icon.png"
@@ -13,14 +13,14 @@
             "icon":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/icon.png"
         },
          {
-            "id": "391164092398938",
-            "name": "Solitaire Streak",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/Solitaire/icon.png"
+            "id": "3203372379949232",
+            "name": "Shoot Bubbles 2 Legend",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble3/icon.jpg"
         },
-        {
-            "id": "391164092398938",
-            "name": "Solitaire Streak",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/Solitaire/icon.png"
+		{
+            "id": "3203372379949232",
+            "name": "Shoot Bubbles 2 Legend",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble3/icon.jpg"
         }
        
     ],
