@@ -1,5 +1,5 @@
 {
-   "version":64,
+   "version":65,
    "sets":{
      
       "default":[
@@ -72,6 +72,32 @@
           
       ],
 	   "TEST":[
+		    {
+            "id":"2492644277420233",
+            "name":"Egg Shoot",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/image/icon200square.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/image/screenshoot.png",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/image/Play-now.png",
+               "text":"",
+               "x":0,
+               "y":-120
+            },
+            "rate":70
+         },
+		                 {
+            "id":"3203372379949232",
+            "name":"Shoot Bubbles 2 Legend",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble3/icon.jpg",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble3/vec_screen.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/bubble3/button.png",
+               "text":"",
+               "x":0,
+               "y":-120
+            },
+            "rate":30
+         }
                 		 
       ]
    },
@@ -79,7 +105,7 @@
       "distributions":[
          {
             "set":"TEST",
-            "players":["2277885047260170","102219957361427390","42951575138826420"]
+            "players":["227788504726017","10221995736142739","4295157513882642"]
          },
          {
             "set":"viset",
