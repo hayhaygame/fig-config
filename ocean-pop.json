@@ -1,8 +1,8 @@
 {
-   "version":73,
+   "version":71,
    "sets":{
      
-      "TEST":[ 
+      "default":[ 
 		 {
             "id":"2492644277420233",
             "name":"Egg Shoot",
@@ -57,46 +57,8 @@
          }
 		 
       ],
-	   "default":[
-		    {
-            "id":"2492644277420233",
-            "name":"Egg Shoot",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/image/icon200square.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/image/screenshoot.png",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/image/Play-now.png",
-               "text":"",
-               "x":0,
-               "y":-120
-            },
-            "rate":20
-         },
-		 {
-            "id":"562551901626528",
-            "name":"Bouncing Balls",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":40
-         },
-		                 {
-            "id":"3203372379949232",
-            "name":"Shoot Bubbles 2 Legend",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble3/icon.jpg",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble3/vec_screen.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/bubble3/button.png",
-               "text":"",
-               "x":0,
-               "y":-120
-            },
-            "rate":40
-         }
+	   "TEST":[
+		   
                 		 
       ]
    },
@@ -104,8 +66,8 @@
       "distributions":[
          {
             "set":"TEST",
-            "players":["227788504726017","10221995736142739","4295157513882642","3008733855901921","3250623728386652"],
-		    "players2":["123"] 
+            "players2":["227788504726017","10221995736142739","4295157513882642","3008733855901921","3250623728386652"],
+		    "players":["123"] 
          },
          {
             "set":"viset",
