@@ -1,5 +1,5 @@
 {
-   "version":92,
+   "version":93,
    "sets":{
 	   "default":[
  		    {
@@ -51,7 +51,7 @@
             "button":{
                "image":"https://d2o6025edec3m1.cloudfront.net/Number2/button.png",
                "x":0,
-               "y":-300
+               "y":-320
             },
             "rate":20
          },
