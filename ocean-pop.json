@@ -1,5 +1,5 @@
 {
-   "version":71,
+   "version":72,
    "sets":{
      
       "default":[ 
@@ -10,7 +10,6 @@
             "screenshot":"https://d2o6025edec3m1.cloudfront.net/image/screenshoot.png",
             "button":{
                "image":"https://d2o6025edec3m1.cloudfront.net/image/Play-now.png",
-               "text":"",
                "x":0,
                "y":-120
             },
@@ -36,7 +35,6 @@
             "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble3/vec_screen.jpg",
             "button":{
                "image":"https://d2o6025edec3m1.cloudfront.net/bubble3/button.png",
-               "text":"",
                "x":0,
                "y":-120
             },
@@ -58,7 +56,71 @@
 		 
       ],
 	   "TEST":[
-		   
+		 {
+            "id":"2492644277420233",
+            "name":"Egg Shoot",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/image/icon200square.png",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/image/screenshoot.png",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/image/Play-now.png",
+               "text":"",
+               "x":0,
+               "y":-120
+            },
+            "rate":20
+         },  
+		  {
+            "id":"381831230747719",
+            "name":"Egg Shoot Dino",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/egg3/icon.jpg",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/egg3/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/egg3/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/egg3/button.png",
+               "x":0,
+               "y":-300
+            },
+            "rate":20
+         }, 
+		  {
+            "id":"3203372379949232",
+            "name": "Shoot Bubbles 2 Legend",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble3/icon.jpg",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble3/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/bubble3/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/bubble3/button.png",
+               "x":0,
+               "y":-300
+            },
+            "rate":20
+         },
+		 {
+		  "id":"1431412473973408",
+            "name":"Shoot Bubbles Pop",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble4/icon.jpg",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble4/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/bubble4/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/bubble4/button.png",
+               "x":0,
+               "y":-300
+            },
+			"rate":20
+		 }
+		  {
+            "id":"1214736605928366",
+            "name": "Shoot Bubble Master",
+            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble5/icon.jpg",
+            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble5/vec_screen.jpg",
+            "banner":"https://d2o6025edec3m1.cloudfront.net/bubble5/banner.jpg",
+            "button":{
+               "image":"https://d2o6025edec3m1.cloudfront.net/bubble5/button.png",
+               "x":0,
+               "y":-300
+            },
+            "rate":20
+         } 				
                 		 
       ]
    },
@@ -66,8 +128,8 @@
       "distributions":[
          {
             "set":"TEST",
-            "players2":["227788504726017","10221995736142739","4295157513882642","3008733855901921","3250623728386652"],
-		    "players":["123"] 
+            "players":["227788504726017","10221995736142739","4295157513882642","3008733855901921","3250623728386652"],
+		    "players2":["123"] 
          },
          {
             "set":"viset",
@@ -80,7 +142,7 @@
          }
       ],
       "interstitial":[
-         2,7,12,16,20
+         2,4,6,16,20
       ],
       "click-adjust":0.5,
       "view-adjust":0.1
