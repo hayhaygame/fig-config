@@ -1,75 +1,10 @@
 {
-   "version":95,
+   "version":96,
    "sets":{
-	   "default":[
- 		    {
-            "id":"227788504726017",
-            "name":"Shoot Bubbles",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/icon200.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/splash-screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/Play-now.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":15
-         },	 
-         
-		 {
-            "id":"439146557102447",
-            "name":"Dynomite X2",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/DynomiteX2/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":10
-         },
-		{
-            "id":"562551901626528",
-            "name":"Bouncing Balls",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/icon.png",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":25
-         },
-		 {
-            "id":"284404767166823",
-            "name":"Number Shoot: X2 Bubble",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/Number2/icon.jpg",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/Number2/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/Number2/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/Number2/button.png",
-               "x":0,
-               "y":-320
-            },
-            "rate":20
-         },
-		  {
-            "id":"3203372379949232",
-            "name": "Shoot Bubbles 2 Legend",
-            "icon":"https://d2o6025edec3m1.cloudfront.net/bubble3/icon.jpg",
-            "screenshot":"https://d2o6025edec3m1.cloudfront.net/bubble3/vec_screen.jpg",
-            "banner":"https://d2o6025edec3m1.cloudfront.net/bubble3/banner.jpg",
-            "button":{
-               "image":"https://d2o6025edec3m1.cloudfront.net/bubble3/button.png",
-               "x":0,
-               "y":-300
-            },
-            "rate":30
-         } 
-      ],
 	   "TEST":[
+ 		 
+      ],
+	   "default":[
  		    {
             "id":"227788504726017",
             "name":"Shoot Bubbles",
@@ -145,12 +80,12 @@
          {
             "set":"TEST",
             "players":[
-               "4066266706814447"
+               "40662667068144470"
             ]
 	    
          }
       ],
-      "interstitial":[2, 4, 6, 26, 30],
+      "interstitial":[12,17,22, 26, 30],
       "click-adjust":0.5,
       "view-adjust":0.1
    }
