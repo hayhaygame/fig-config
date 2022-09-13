@@ -1,5 +1,5 @@
 {
-   "version":73,
+   "version":74,
    "sets":{
      
       "default":[ 
@@ -107,7 +107,7 @@
                "y":-300
             },
 			"rate":20
-		 }
+		 },
 		  {
             "id":"1214736605928366",
             "name": "Shoot Bubble Master",
