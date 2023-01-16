@@ -1,5 +1,5 @@
 {
-   "version":96,
+   "version":97,
    "sets":{
 	   "TEST":[
  		 
@@ -42,7 +42,7 @@
             "button":{
                "image":"https://d2o6025edec3m1.cloudfront.net/bubble2-ball/button.png",
                "x":0,
-               "y":-300
+               "y":-250
             },
             "rate":20
          },
