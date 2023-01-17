@@ -1,5 +1,5 @@
 {
-   "version":98,
+   "version":99,
    "sets":{
 	   "TEST":[
  		 
@@ -14,7 +14,7 @@
             "button":{
                "image":"https://d2o6025edec3m1.cloudfront.net/bubbleshoot/Play-now.png",
                "x":0,
-               "y":-250
+               "y":-150
             },
             "rate":20
          },	 
@@ -28,7 +28,7 @@
             "button":{
                "image":"https://d2o6025edec3m1.cloudfront.net/egg3/button.png",
                "x":0,
-               "y":-250
+               "y":-200
             },
             "rate":20
          },  
@@ -69,7 +69,7 @@
             "button":{
                "image":"https://d2o6025edec3m1.cloudfront.net/bubble5/button.png",
                "x":0,
-               "y":-250
+               "y":-200
             },
             "rate":20
          } 				 
