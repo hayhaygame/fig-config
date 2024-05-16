@@ -1,7 +1,7 @@
 {
-    "version": 26,
+    "version": 27,
     "sets": {
-        "default-test": [            
+        "default": [            
 			{
                 "id": "2492644277420233",
                 "name": "Egg Shoot",
