@@ -1,3 +1,6 @@
 {
-    "country-tier-1": ["US", "VN"]
+    "country-tier-1": ["US", "VN"],
+    "country": {
+        "tier1": ["US", "VN"]
+    }
 }
